@@ -3,8 +3,11 @@ name: 台股儀表板每日更新
 on:
   workflow_dispatch: {}
   schedule:
-    # 台灣時間(UTC+8) 平日 11:07 = UTC 03:07。刻意避開整點，降低GitHub排程延遲機率。
-    - cron: "7 3 * * 1-5"
+    # 荷蘭時間(Europe/Amsterdam)平日11:07，讓GitHub依IANA時區自動處理夏令/冬令時間轉換。
+    # 換算：夏令(CEST,UTC+2)時=台灣時間17:07；冬令(CET,UTC+1)時=台灣時間18:07。
+    # 兩者都在台股13:30收盤之後，確保抓得到當天收盤資料，不會像原本UTC 03:07(台灣11:07，收盤前)那樣延遲一天。
+    - cron: "7 11 * * 1-5"
+      timezone: "Europe/Amsterdam"
 
 permissions:
   contents: write
