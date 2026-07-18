@@ -1,0 +1,74 @@
+name: 台股儀表板每日更新
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 台灣時間(UTC+8) 平日 11:07 = UTC 03:07。刻意避開整點，降低GitHub排程延遲機率。
+    - cron: "7 3 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tw-stock-dashboard-daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node (build腳本用node --check驗證內嵌JS)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 抓資料
+        id: fetch
+        env:
+          FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+        run: |
+          set -e
+          mkdir -p _work
+          python3 scripts/gh_fetch.py --repo . --outputs ./_work | tee _work/fetch.log
+          MISSING=$(grep '^MISSING_DATES:' _work/fetch.log | sed 's/^MISSING_DATES://')
+          echo "missing=$MISSING" >> "$GITHUB_OUTPUT"
+
+      - name: 逐日更新data JSON與HTML
+        if: steps.fetch.outputs.missing != ''
+        run: |
+          set -e
+          for D in ${{ steps.fetch.outputs.missing }}; do
+            echo "=== 更新 $D ==="
+            python3 scripts/tw_dash_update_data.py --repo . --outputs ./_work --date "$D" \
+              --batch-glob "fetch_batch_${D}.json"
+            python3 scripts/tw_dash_build_html.py --repo . --outputs ./_work --params "./_work/params_${D}.json"
+          done
+          # build腳本輸出到 deploy/tw-stock-dashboard/index.html（含PWA meta），
+          # GitHub Pages實際serve的是repo根目錄的index.html，兩者同步。
+          cp deploy/tw-stock-dashboard/index.html index.html
+
+      - name: 檢查是否有變動
+        id: diff
+        run: |
+          if git diff --quiet -- data/ index.html deploy/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit並推送
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "tw-stock-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ index.html deploy/
+          git commit -m "自動更新：${{ steps.fetch.outputs.missing }}"
+          git push
