@@ -1,12 +1,12 @@
 {
   "MARKET": {
-    "date": "2026/08/10",
-    "taiex": 44928.76,
-    "taiexChg": 702.85,
-    "instTotal": 731.7,
-    "foreign": 517.1,
-    "invTrust": 29.8,
-    "dealer": 184.7
+    "date": "2026/08/11",
+    "taiex": 45120.72,
+    "taiexChg": 191.96,
+    "instTotal": 281.8,
+    "foreign": 223.3,
+    "invTrust": 33.9,
+    "dealer": 24.6
   },
   "GROUPS": {
     "Space X": [
@@ -15,180 +15,180 @@
         "name": "華通",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 215,
-        "chg": 6.5,
-        "vol": 33993,
-        "inst": -3424
+        "close": 211.5,
+        "chg": -3.5,
+        "vol": 26403,
+        "inst": -2340
       },
       {
         "code": "2367",
         "name": "燿華",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 44.25,
-        "chg": 2.85,
-        "vol": 10975,
-        "inst": 764
+        "close": 44.75,
+        "chg": 0.5,
+        "vol": 7657,
+        "inst": 1102
       },
       {
         "code": "2368",
         "name": "金像電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 926,
-        "chg": -56,
-        "vol": 18012,
-        "inst": -5293
+        "close": 964,
+        "chg": 38,
+        "vol": 12948,
+        "inst": 3198
       },
       {
         "code": "2383",
         "name": "台光電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 5290,
-        "chg": 50,
-        "vol": 1956,
-        "inst": 115
+        "close": 5535,
+        "chg": 245,
+        "vol": 2818,
+        "inst": 368
       },
       {
         "code": "3491",
         "name": "昇達科",
         "industry": "通信網路業",
         "market": "上櫃",
-        "close": 1235,
-        "chg": 0,
-        "vol": 1799,
-        "inst": -401
+        "close": 1275,
+        "chg": 40,
+        "vol": 1045,
+        "inst": 121
       },
       {
         "code": "6285",
         "name": "啟碁",
         "industry": "通信網路業",
         "market": "上市",
-        "close": 256,
-        "chg": 23,
-        "vol": 10888,
-        "inst": 3819
+        "close": 254,
+        "chg": -2,
+        "vol": 9888,
+        "inst": 123
       },
       {
         "code": "2314",
         "name": "台揚",
         "industry": "通信網路業",
         "market": "上市",
-        "close": 12.05,
-        "chg": -0.1,
-        "vol": 61,
-        "inst": 1
+        "close": 11.5,
+        "chg": -0.55,
+        "vol": 252,
+        "inst": 9
       },
       {
         "code": "2455",
         "name": "全新",
         "industry": "通信網路業",
         "market": "上市",
-        "close": 384.5,
-        "chg": 20.5,
-        "vol": 5129,
-        "inst": 206
+        "close": 367.5,
+        "chg": -17,
+        "vol": 3560,
+        "inst": 33
       },
       {
         "code": "3152",
         "name": "璟德",
         "industry": "通信網路業",
         "market": "上櫃",
-        "close": 220,
-        "chg": 2,
-        "vol": 181,
-        "inst": 11
+        "close": 224.5,
+        "chg": 4.5,
+        "vol": 84,
+        "inst": 5
       },
       {
         "code": "6271",
         "name": "同欣電",
         "industry": "半導體業",
         "market": "上市",
-        "close": 197,
-        "chg": 3.5,
-        "vol": 7275,
-        "inst": 663
+        "close": 195.5,
+        "chg": -1.5,
+        "vol": 4630,
+        "inst": -513
       },
       {
         "code": "3105",
         "name": "穩懋",
         "industry": "半導體業",
         "market": "上櫃",
-        "close": 385.5,
-        "chg": 19.5,
-        "vol": 25703,
-        "inst": 1610
+        "close": 371,
+        "chg": -14.5,
+        "vol": 16830,
+        "inst": -3777
       },
       {
         "code": "5222",
         "name": "全訊",
         "industry": "半導體業",
         "market": "上市",
-        "close": 117,
-        "chg": 4.5,
-        "vol": 268,
-        "inst": 94
+        "close": 115,
+        "chg": -2,
+        "vol": 141,
+        "inst": -38
       },
       {
         "code": "3481",
         "name": "群創",
         "industry": "光電業",
         "market": "上市",
-        "close": 52.3,
-        "chg": 4.75,
-        "vol": 219970,
-        "inst": 53101
+        "close": 50.1,
+        "chg": -2.2,
+        "vol": 359824,
+        "inst": -16374
       },
       {
         "code": "6443",
         "name": "元晶",
         "industry": "光電業",
         "market": "上市",
-        "close": 27.05,
-        "chg": 1.05,
-        "vol": 4717,
-        "inst": 1312
+        "close": 26.9,
+        "chg": -0.15,
+        "vol": 2703,
+        "inst": 388
       },
       {
         "code": "2317",
         "name": "鴻海",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 264.5,
-        "chg": 4.5,
-        "vol": 34854,
-        "inst": 8397
+        "close": 263,
+        "chg": -1.5,
+        "vol": 24592,
+        "inst": -821
       },
       {
         "code": "4916",
         "name": "事欣科",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 104,
-        "chg": -4,
-        "vol": 8851,
-        "inst": -2059
+        "close": 104.5,
+        "chg": 0.5,
+        "vol": 6366,
+        "inst": -760
       },
       {
         "code": "3324",
         "name": "雙鴻",
         "industry": "其他電子業",
         "market": "上櫃",
-        "close": 1010,
-        "chg": -5,
-        "vol": 3461,
-        "inst": -279
+        "close": 1045,
+        "chg": 35,
+        "vol": 2337,
+        "inst": 504
       },
       {
         "code": "3017",
         "name": "奇鋐",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 2765,
-        "chg": -20,
-        "vol": 3327,
-        "inst": -246
+        "close": 2760,
+        "chg": -5,
+        "vol": 3144,
+        "inst": 124
       }
     ],
     "黃爸爸MGX": [
@@ -197,110 +197,110 @@
         "name": "台積電",
         "industry": "半導體業",
         "market": "上市",
-        "close": 2380,
-        "chg": 10,
-        "vol": 20057,
-        "inst": 700
+        "close": 2395,
+        "chg": 15,
+        "vol": 16862,
+        "inst": 3667
       },
       {
         "code": "2308",
         "name": "台達電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 1815,
-        "chg": 165,
-        "vol": 10318,
-        "inst": 2378
+        "close": 1805,
+        "chg": -10,
+        "vol": 18634,
+        "inst": -3911
       },
       {
         "code": "2383",
         "name": "台光電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 5290,
-        "chg": 50,
-        "vol": 1956,
-        "inst": 115
+        "close": 5535,
+        "chg": 245,
+        "vol": 2818,
+        "inst": 368
       },
       {
         "code": "6805",
         "name": "富世達",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 1755,
-        "chg": 85,
-        "vol": 2683,
-        "inst": -191
+        "close": 1790,
+        "chg": 35,
+        "vol": 3277,
+        "inst": 778
       },
       {
         "code": "3653",
         "name": "健策",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 4135,
-        "chg": -245,
-        "vol": 1453,
-        "inst": -310
+        "close": 4065,
+        "chg": -70,
+        "vol": 1063,
+        "inst": 46
       },
       {
         "code": "6269",
         "name": "台郡",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 65.9,
-        "chg": -0.7,
-        "vol": 9127,
-        "inst": -1132
+        "close": 67.4,
+        "chg": 1.5,
+        "vol": 7869,
+        "inst": 1233
       },
       {
         "code": "2059",
         "name": "川湖",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 11905,
-        "chg": 795,
-        "vol": 1017,
-        "inst": 193
+        "close": 12315,
+        "chg": 410,
+        "vol": 460,
+        "inst": 87
       },
       {
         "code": "6290",
         "name": "良維",
         "industry": "電子零組件業",
         "market": "上櫃",
-        "close": 214,
-        "chg": 12,
-        "vol": 3370,
-        "inst": 1150
+        "close": 220,
+        "chg": 6,
+        "vol": 3194,
+        "inst": 566
       },
       {
         "code": "3533",
         "name": "嘉澤",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 1960,
-        "chg": 50,
-        "vol": 785,
-        "inst": 129
+        "close": 1990,
+        "chg": 30,
+        "vol": 1040,
+        "inst": -143
       },
       {
         "code": "6584",
         "name": "南俊國際",
         "industry": "電子零組件業",
         "market": "上櫃",
-        "close": 522,
-        "chg": -28,
-        "vol": 2075,
-        "inst": -601
+        "close": 538,
+        "chg": 16,
+        "vol": 679,
+        "inst": -86
       },
       {
         "code": "3338",
         "name": "泰碩",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 63.3,
-        "chg": -0.7,
-        "vol": 492,
-        "inst": -101
+        "close": 63.1,
+        "chg": -0.2,
+        "vol": 284,
+        "inst": 24
       },
       {
         "code": "3037",
@@ -308,99 +308,99 @@
         "industry": "電子零組件業",
         "market": "上市",
         "close": 992,
-        "chg": 37,
-        "vol": 7464,
-        "inst": 3695
+        "chg": 0,
+        "vol": 5181,
+        "inst": 795
       },
       {
         "code": "4958",
         "name": "臻鼎-KY",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 470.5,
-        "chg": -2.5,
-        "vol": 34195,
-        "inst": -8087
+        "close": 490,
+        "chg": 19.5,
+        "vol": 33414,
+        "inst": 3991
       },
       {
         "code": "3324",
         "name": "雙鴻",
         "industry": "其他電子業",
         "market": "上櫃",
-        "close": 1010,
-        "chg": -5,
-        "vol": 3461,
-        "inst": -279
+        "close": 1045,
+        "chg": 35,
+        "vol": 2337,
+        "inst": 504
       },
       {
         "code": "2474",
         "name": "可成",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 201,
-        "chg": 13.5,
-        "vol": 8367,
-        "inst": 576
+        "close": 206,
+        "chg": 5,
+        "vol": 6758,
+        "inst": 2495
       },
       {
         "code": "3665",
         "name": "貿聯-KY",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 2190,
-        "chg": -10,
-        "vol": 4233,
-        "inst": -397
+        "close": 2200,
+        "chg": 10,
+        "vol": 3555,
+        "inst": -359
       },
       {
         "code": "3017",
         "name": "奇鋐",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 2765,
-        "chg": -20,
-        "vol": 3327,
-        "inst": -246
+        "close": 2760,
+        "chg": -5,
+        "vol": 3144,
+        "inst": 124
       },
       {
         "code": "3483",
         "name": "力致",
         "industry": "電腦及週邊設備業",
         "market": "上櫃",
-        "close": 74,
-        "chg": -0.4,
-        "vol": 268,
-        "inst": 13
+        "close": 73.5,
+        "chg": -0.5,
+        "vol": 218,
+        "inst": 37
       },
       {
         "code": "8210",
         "name": "勤誠",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 1075,
-        "chg": -40,
-        "vol": 2492,
-        "inst": -232
+        "close": 1015,
+        "chg": -60,
+        "vol": 2211,
+        "inst": -656
       },
       {
         "code": "5426",
         "name": "振發",
         "industry": "電腦及週邊設備業",
         "market": "上櫃",
-        "close": 28,
-        "chg": 1.75,
-        "vol": 1193,
-        "inst": -126
+        "close": 30.8,
+        "chg": 2.8,
+        "vol": 3547,
+        "inst": 70
       },
       {
         "code": "2301",
         "name": "光寶科",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 271.5,
-        "chg": 24.5,
-        "vol": 26110,
-        "inst": 3295
+        "close": 268.5,
+        "chg": -3,
+        "vol": 48868,
+        "inst": -1127
       }
     ],
     "蘇媽媽AMD": [
@@ -409,10 +409,10 @@
         "name": "南電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 1130,
-        "chg": 50,
-        "vol": 3375,
-        "inst": -537
+        "close": 1150,
+        "chg": 20,
+        "vol": 2577,
+        "inst": -428
       },
       {
         "code": "3037",
@@ -420,79 +420,79 @@
         "industry": "電子零組件業",
         "market": "上市",
         "close": 992,
-        "chg": 37,
-        "vol": 7464,
-        "inst": 3695
+        "chg": 0,
+        "vol": 5181,
+        "inst": 795
       },
       {
         "code": "6239",
         "name": "力成",
         "industry": "半導體業",
         "market": "上市",
-        "close": 288.5,
-        "chg": 26,
-        "vol": 7911,
-        "inst": 707
+        "close": 282.5,
+        "chg": -6,
+        "vol": 39724,
+        "inst": -5315
       },
       {
         "code": "3711",
         "name": "日月光投控",
         "industry": "半導體業",
         "market": "上市",
-        "close": 630,
-        "chg": 45,
-        "vol": 28685,
-        "inst": 4609
+        "close": 629,
+        "chg": -1,
+        "vol": 19274,
+        "inst": -562
       },
       {
         "code": "3189",
         "name": "景碩",
         "industry": "半導體業",
         "market": "上市",
-        "close": 836,
-        "chg": 13,
-        "vol": 3651,
-        "inst": 541
+        "close": 842,
+        "chg": 6,
+        "vol": 2961,
+        "inst": 611
       },
       {
         "code": "2356",
         "name": "英業達",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 66,
-        "chg": 2,
-        "vol": 18620,
-        "inst": 7389
+        "close": 65.1,
+        "chg": -0.9,
+        "vol": 14649,
+        "inst": -786
       },
       {
         "code": "3693",
         "name": "營邦",
         "industry": "電腦及週邊設備業",
         "market": "上櫃",
-        "close": 500,
-        "chg": -27,
-        "vol": 1207,
-        "inst": -183
+        "close": 492,
+        "chg": -8,
+        "vol": 674,
+        "inst": -31
       },
       {
         "code": "3231",
         "name": "緯創",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 193,
-        "chg": 9.5,
-        "vol": 69636,
-        "inst": 8795
+        "close": 191,
+        "chg": -2,
+        "vol": 34518,
+        "inst": 273
       },
       {
         "code": "6669",
         "name": "緯穎",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 6010,
-        "chg": -90,
-        "vol": 1653,
-        "inst": -215
+        "close": 5930,
+        "chg": -80,
+        "vol": 1679,
+        "inst": -190
       }
     ],
     "未分類": [
@@ -501,70 +501,70 @@
         "name": "元大台灣50",
         "industry": "ETF",
         "market": "上市",
-        "close": 104.25,
-        "chg": 1.4,
-        "vol": 82086,
-        "inst": 22858
+        "close": 104.6,
+        "chg": 0.35,
+        "vol": 69314,
+        "inst": 22019
       },
       {
         "code": "006208",
         "name": "富邦台50",
         "industry": "ETF",
         "market": "上市",
-        "close": 238.7,
-        "chg": 3.35,
-        "vol": 2703,
-        "inst": -139
+        "close": 238.9,
+        "chg": 0.2,
+        "vol": 1799,
+        "inst": 495
       },
       {
         "code": "0056",
         "name": "元大高股息",
         "industry": "ETF",
         "market": "上市",
-        "close": 52.45,
-        "chg": 1.4,
-        "vol": 67919,
-        "inst": 52632
+        "close": 52.3,
+        "chg": -0.15,
+        "vol": 25286,
+        "inst": 219
       },
       {
         "code": "009816",
         "name": "凱基台灣TOP50",
         "industry": "ETF",
         "market": "上市",
-        "close": 15.12,
-        "chg": 0.24,
-        "vol": 102033,
-        "inst": 34767
+        "close": 15.16,
+        "chg": 0.04,
+        "vol": 67680,
+        "inst": 10575
       },
       {
         "code": "2330",
         "name": "台積電",
         "industry": "半導體業",
         "market": "上市",
-        "close": 2380,
-        "chg": 10,
-        "vol": 20057,
-        "inst": 700
+        "close": 2395,
+        "chg": 15,
+        "vol": 16862,
+        "inst": 3667
       },
       {
         "code": "2454",
         "name": "聯發科",
         "industry": "半導體業",
         "market": "上市",
-        "close": 3960,
+        "close": 4020,
         "chg": 60,
-        "vol": 5873,
-        "inst": 1420
+        "vol": 7652,
+        "inst": 765
       },
       {
         "code": "6526",
         "name": "達發",
         "industry": "半導體業",
         "market": "上市",
-        "close": 627,
-        "chg": 2,
-        "vol": 314,
-        "inst": 15
+        "close": 620,
+        "chg": -7,
+        "vol": 274,
+        "inst": 26
       },
       {
         "code": "2303",
@@ -572,199 +572,199 @@
         "industry": "半導體業",
         "market": "上市",
         "close": 123,
-        "chg": 7,
-        "vol": 175633,
-        "inst": 32072
+        "chg": 0,
+        "vol": 79882,
+        "inst": 6624
       },
       {
         "code": "3443",
         "name": "創意",
         "industry": "半導體業",
         "market": "上市",
-        "close": 4530,
-        "chg": -15,
-        "vol": 2048,
-        "inst": -216
+        "close": 4955,
+        "chg": 425,
+        "vol": 3470,
+        "inst": 229
       },
       {
         "code": "5274",
         "name": "信驊",
         "industry": "半導體業",
         "market": "上櫃",
-        "close": 16540,
-        "chg": 195,
-        "vol": 211,
-        "inst": 9
+        "close": 16440,
+        "chg": -100,
+        "vol": 172,
+        "inst": 38
       },
       {
         "code": "6515",
         "name": "穎崴",
         "industry": "半導體業",
         "market": "上市",
-        "close": 6830,
-        "chg": 70,
-        "vol": 415,
-        "inst": -24
+        "close": 6920,
+        "chg": 90,
+        "vol": 179,
+        "inst": -1
       },
       {
         "code": "6770",
         "name": "力積電",
         "industry": "半導體業",
         "market": "上市",
-        "close": 67.6,
-        "chg": 2.1,
-        "vol": 231527,
-        "inst": -3197
+        "close": 67,
+        "chg": -0.6,
+        "vol": 110831,
+        "inst": 4221
       },
       {
         "code": "2408",
         "name": "南亞科",
         "industry": "半導體業",
         "market": "上市",
-        "close": 502,
-        "chg": 45,
-        "vol": 102645,
-        "inst": 32226
+        "close": 489,
+        "chg": -13,
+        "vol": 113682,
+        "inst": 15315
       },
       {
         "code": "2344",
         "name": "華邦電",
         "industry": "半導體業",
         "market": "上市",
-        "close": 179.5,
-        "chg": 16,
-        "vol": 154758,
-        "inst": 22525
+        "close": 178,
+        "chg": -1.5,
+        "vol": 194694,
+        "inst": 37902
       },
       {
         "code": "2449",
         "name": "京元電子",
         "industry": "半導體業",
         "market": "上市",
-        "close": 248.5,
-        "chg": 6.5,
-        "vol": 34862,
-        "inst": -4348
+        "close": 246,
+        "chg": -2.5,
+        "vol": 17657,
+        "inst": -4889
       },
       {
         "code": "3661",
         "name": "世芯-KY",
         "industry": "半導體業",
         "market": "上市",
-        "close": 3800,
-        "chg": 85,
-        "vol": 3273,
-        "inst": -46
+        "close": 3955,
+        "chg": 155,
+        "vol": 4659,
+        "inst": 462
       },
       {
         "code": "6510",
         "name": "精測",
         "industry": "半導體業",
         "market": "上櫃",
-        "close": 2845,
-        "chg": 150,
-        "vol": 697,
-        "inst": 91
+        "close": 2800,
+        "chg": -45,
+        "vol": 313,
+        "inst": 0
       },
       {
         "code": "2379",
         "name": "瑞昱",
         "industry": "半導體業",
         "market": "上市",
-        "close": 758,
-        "chg": 8,
-        "vol": 2613,
-        "inst": 1
+        "close": 772,
+        "chg": 14,
+        "vol": 2362,
+        "inst": 354
       },
       {
         "code": "3450",
         "name": "聯鈞",
         "industry": "半導體業",
         "market": "上市",
-        "close": 524,
-        "chg": 47,
-        "vol": 13071,
-        "inst": 1867
+        "close": 473.5,
+        "chg": -50.5,
+        "vol": 4428,
+        "inst": 46
       },
       {
         "code": "6223",
         "name": "旺矽",
         "industry": "半導體業",
         "market": "上櫃",
-        "close": 6225,
-        "chg": 125,
-        "vol": 1011,
-        "inst": 10
+        "close": 6315,
+        "chg": 90,
+        "vol": 487,
+        "inst": 6
       },
       {
         "code": "2886",
         "name": "兆豐金",
         "industry": "金融保險業",
         "market": "上市",
-        "close": 51,
-        "chg": 0.1,
-        "vol": 23274,
-        "inst": -8512
+        "close": 49.4,
+        "chg": -1.6,
+        "vol": 32199,
+        "inst": -14868
       },
       {
         "code": "2884",
         "name": "玉山金",
         "industry": "金融保險業",
         "market": "上市",
-        "close": 37.8,
-        "chg": -0.35,
-        "vol": 26422,
-        "inst": -9545
+        "close": 36.9,
+        "chg": -0.9,
+        "vol": 37303,
+        "inst": -9448
       },
       {
         "code": "2308",
         "name": "台達電",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 1815,
-        "chg": 165,
-        "vol": 10318,
-        "inst": 2378
+        "close": 1805,
+        "chg": -10,
+        "vol": 18634,
+        "inst": -3911
       },
       {
         "code": "2059",
         "name": "川湖",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 11905,
-        "chg": 795,
-        "vol": 1017,
-        "inst": 193
+        "close": 12315,
+        "chg": 410,
+        "vol": 460,
+        "inst": 87
       },
       {
         "code": "2327",
         "name": "國巨",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 573,
-        "chg": 33,
-        "vol": 36354,
-        "inst": 5228
+        "close": 617,
+        "chg": 44,
+        "vol": 81651,
+        "inst": -5485
       },
       {
         "code": "2313",
         "name": "華通",
         "industry": "電子零組件業",
         "market": "上市",
-        "close": 215,
-        "chg": 6.5,
-        "vol": 33993,
-        "inst": -3424
+        "close": 211.5,
+        "chg": -3.5,
+        "vol": 26403,
+        "inst": -2340
       },
       {
         "code": "2618",
         "name": "長榮航",
         "industry": "航運業",
         "market": "上市",
-        "close": 42.65,
-        "chg": -1.75,
-        "vol": 40365,
-        "inst": -1340
+        "close": 41.75,
+        "chg": -0.9,
+        "vol": 36660,
+        "inst": -2752
       },
       {
         "code": "2646",
@@ -772,1053 +772,213 @@
         "industry": "航運業",
         "market": "上市",
         "close": 20.75,
-        "chg": -0.55,
-        "vol": 11938,
-        "inst": -6601
+        "chg": 0,
+        "vol": 4619,
+        "inst": -1187
       },
       {
         "code": "1802",
         "name": "台玻",
         "industry": "玻璃陶瓷業",
         "market": "上市",
-        "close": 54.7,
-        "chg": 1.6,
-        "vol": 25394,
-        "inst": 894
+        "close": 55.9,
+        "chg": 1.2,
+        "vol": 26836,
+        "inst": 4760
       },
       {
         "code": "6446",
         "name": "藥華藥",
         "industry": "生技醫療業",
         "market": "上市",
-        "close": 1330,
-        "chg": 90,
-        "vol": 4265,
-        "inst": 882
+        "close": 1460,
+        "chg": 130,
+        "vol": 5614,
+        "inst": 1789
       },
       {
         "code": "1101",
         "name": "台泥",
         "industry": "水泥工業",
         "market": "上市",
-        "close": 24.55,
-        "chg": 0.2,
-        "vol": 14596,
-        "inst": 3663
+        "close": 24.65,
+        "chg": 0.1,
+        "vol": 19811,
+        "inst": 2833
       },
       {
         "code": "6558",
         "name": "興能高",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 26.75,
-        "chg": 0.95,
-        "vol": 299,
-        "inst": 135
+        "close": 26.8,
+        "chg": 0.05,
+        "vol": 268,
+        "inst": 71
       },
       {
         "code": "6691",
         "name": "洋基工程",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 732,
-        "chg": -3,
-        "vol": 570,
-        "inst": -40
+        "close": 728,
+        "chg": -4,
+        "vol": 341,
+        "inst": -63
       },
       {
         "code": "5452",
         "name": "佶優",
         "industry": "其他電子業",
         "market": "上櫃",
-        "close": 27.2,
-        "chg": 0.95,
-        "vol": 568,
-        "inst": 144
+        "close": 26.85,
+        "chg": -0.35,
+        "vol": 333,
+        "inst": -2
       },
       {
         "code": "6826",
         "name": "和淞",
         "industry": "其他電子業",
         "market": "興櫃",
-        "close": 521,
-        "chg": 20.5,
-        "vol": 95,
-        "inst": 19
+        "close": 506,
+        "chg": -8.11,
+        "vol": 76,
+        "inst": -19
       },
       {
         "code": "2464",
         "name": "盟立",
         "industry": "其他電子業",
         "market": "上市",
-        "close": 180,
-        "chg": 6.5,
-        "vol": 16707,
-        "inst": 2860
+        "close": 187.5,
+        "chg": 7.5,
+        "vol": 26698,
+        "inst": 3389
       },
       {
         "code": "3008",
         "name": "大立光",
         "industry": "光電業",
         "market": "上市",
-        "close": 4400,
-        "chg": 15,
-        "vol": 1940,
-        "inst": 58
+        "close": 4355,
+        "chg": -45,
+        "vol": 1544,
+        "inst": -140
       },
       {
         "code": "8069",
         "name": "元太",
         "industry": "光電業",
         "market": "上櫃",
-        "close": 176.5,
-        "chg": -19.5,
-        "vol": 14773,
-        "inst": -9101
+        "close": 165,
+        "chg": -11.5,
+        "vol": 17639,
+        "inst": -9699
       },
       {
         "code": "3481",
         "name": "群創",
         "industry": "光電業",
         "market": "上市",
-        "close": 52.3,
-        "chg": 4.75,
-        "vol": 219970,
-        "inst": 53101
+        "close": 50.1,
+        "chg": -2.2,
+        "vol": 359824,
+        "inst": -16374
       },
       {
         "code": "6116",
         "name": "彩晶",
         "industry": "光電業",
         "market": "上市",
-        "close": 14.9,
-        "chg": 1.35,
-        "vol": 76265,
-        "inst": 5036
+        "close": 14.2,
+        "chg": -0.7,
+        "vol": 47104,
+        "inst": -5495
       },
       {
         "code": "2409",
         "name": "友達",
         "industry": "光電業",
         "market": "上市",
-        "close": 27,
-        "chg": 2.45,
-        "vol": 216206,
-        "inst": 4598
+        "close": 26.1,
+        "chg": -0.9,
+        "vol": 459871,
+        "inst": -60473
       },
       {
         "code": "6285",
         "name": "啟碁",
         "industry": "通信網路業",
         "market": "上市",
-        "close": 256,
-        "chg": 23,
-        "vol": 10888,
-        "inst": 3819
+        "close": 254,
+        "chg": -2,
+        "vol": 9888,
+        "inst": 123
       },
       {
         "code": "3363",
         "name": "上詮",
         "industry": "通信網路業",
         "market": "上櫃",
-        "close": 640,
-        "chg": 58,
-        "vol": 2870,
-        "inst": 662
+        "close": 606,
+        "chg": -34,
+        "vol": 4265,
+        "inst": -723
       },
       {
         "code": "3491",
         "name": "昇達科",
         "industry": "通信網路業",
         "market": "上櫃",
-        "close": 1235,
-        "chg": 0,
-        "vol": 1799,
-        "inst": -401
+        "close": 1275,
+        "chg": 40,
+        "vol": 1045,
+        "inst": 121
       },
       {
         "code": "1711",
         "name": "永光",
         "industry": "化學工業",
         "market": "上市",
-        "close": 38.05,
-        "chg": 3.45,
-        "vol": 2800,
-        "inst": 504
+        "close": 37.85,
+        "chg": -0.2,
+        "vol": 12713,
+        "inst": -2851
       },
       {
         "code": "1303",
         "name": "南亞",
         "industry": "塑膠工業",
         "market": "上市",
-        "close": 185,
-        "chg": -3,
-        "vol": 105561,
-        "inst": -22714
+        "close": 190,
+        "chg": 5,
+        "vol": 102680,
+        "inst": 13042
       },
       {
         "code": "2395",
         "name": "研華",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 667,
-        "chg": 33,
-        "vol": 7376,
-        "inst": 1
+        "close": 661,
+        "chg": -6,
+        "vol": 4165,
+        "inst": -100
       },
       {
         "code": "2382",
         "name": "廣達",
         "industry": "電腦及週邊設備業",
         "market": "上市",
-        "close": 313.5,
-        "chg": 15.5,
-        "vol": 22764,
-        "inst": 3096
+        "close": 315.5,
+        "chg": 2,
+        "vol": 15798,
+        "inst": -1355
       }
     ]
   },
   "STOCK_HISTORY": [
-    {
-      "date": "2026-06-25",
-      "code": "0050",
-      "name": "元大台灣50",
-      "industry": "ETF",
-      "close": 107.2,
-      "chg": 0.05,
-      "vol": 96346,
-      "inst": -26635
-    },
-    {
-      "date": "2026-06-25",
-      "code": "0056",
-      "name": "元大高股息",
-      "industry": "ETF",
-      "close": 53.2,
-      "chg": 0.05,
-      "vol": 29134,
-      "inst": 143
-    },
-    {
-      "date": "2026-06-25",
-      "code": "006208",
-      "name": "富邦台50",
-      "industry": "ETF",
-      "close": 248.1,
-      "chg": 0.15,
-      "vol": 2874,
-      "inst": 11
-    },
-    {
-      "date": "2026-06-25",
-      "code": "009816",
-      "name": "凱基台灣TOP50",
-      "industry": "ETF",
-      "close": 15.59,
-      "chg": 0.03,
-      "vol": 141016,
-      "inst": -46091
-    },
-    {
-      "date": "2026-06-25",
-      "code": "1101",
-      "name": "台泥",
-      "industry": "水泥工業",
-      "close": 24.6,
-      "chg": 0.4,
-      "vol": 37491,
-      "inst": 12882
-    },
-    {
-      "date": "2026-06-25",
-      "code": "1303",
-      "name": "南亞",
-      "industry": "塑膠工業",
-      "close": 155,
-      "chg": -1,
-      "vol": 48103,
-      "inst": 5099
-    },
-    {
-      "date": "2026-06-25",
-      "code": "1711",
-      "name": "永光",
-      "industry": "化學工業",
-      "close": 46.3,
-      "chg": -1.4,
-      "vol": 7113,
-      "inst": -1784
-    },
-    {
-      "date": "2026-06-25",
-      "code": "1802",
-      "name": "台玻",
-      "industry": "玻璃陶瓷業",
-      "close": 69.6,
-      "chg": 0.3,
-      "vol": 70450,
-      "inst": 9949
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2059",
-      "name": "川湖",
-      "industry": "電子零組件業",
-      "close": 7315,
-      "chg": -190,
-      "vol": 782,
-      "inst": 77
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2301",
-      "name": "光寶科",
-      "industry": "電腦及週邊設備業",
-      "close": 215,
-      "chg": -1.5,
-      "vol": 35806,
-      "inst": -4923
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2303",
-      "name": "聯電",
-      "industry": "半導體業",
-      "close": 178.5,
-      "chg": 0.5,
-      "vol": 397685,
-      "inst": -10682
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2308",
-      "name": "台達電",
-      "industry": "電子零組件業",
-      "close": 1980,
-      "chg": -20,
-      "vol": 13727,
-      "inst": -1250
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2313",
-      "name": "華通",
-      "industry": "電子零組件業",
-      "close": 233,
-      "chg": -7,
-      "vol": 29189,
-      "inst": -6983
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2314",
-      "name": "台揚",
-      "industry": "通信網路業",
-      "close": 14.05,
-      "chg": -0.25,
-      "vol": 145,
-      "inst": 2
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2317",
-      "name": "鴻海",
-      "industry": "其他電子業",
-      "close": 257.5,
-      "chg": 1.5,
-      "vol": 43578,
-      "inst": -1070
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2327",
-      "name": "國巨",
-      "industry": "電子零組件業",
-      "close": 1125,
-      "chg": 75,
-      "vol": 61346,
-      "inst": 798
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2330",
-      "name": "台積電",
-      "industry": "半導體業",
-      "close": 2390,
-      "chg": 0,
-      "vol": 41100,
-      "inst": -6235
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2344",
-      "name": "華邦電",
-      "industry": "半導體業",
-      "close": 219.5,
-      "chg": 14.5,
-      "vol": 227329,
-      "inst": 21071
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2356",
-      "name": "英業達",
-      "industry": "電腦及週邊設備業",
-      "close": 66.7,
-      "chg": 0.3,
-      "vol": 21539,
-      "inst": 2153
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2367",
-      "name": "燿華",
-      "industry": "電子零組件業",
-      "close": 56.8,
-      "chg": -1.6,
-      "vol": 11796,
-      "inst": -1209
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2368",
-      "name": "金像電",
-      "industry": "電子零組件業",
-      "close": 1240,
-      "chg": -15,
-      "vol": 6147,
-      "inst": 862
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2379",
-      "name": "瑞昱",
-      "industry": "半導體業",
-      "close": 814,
-      "chg": 11,
-      "vol": 7762,
-      "inst": -827
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2382",
-      "name": "廣達",
-      "industry": "電腦及週邊設備業",
-      "close": 366.5,
-      "chg": -5.5,
-      "vol": 13597,
-      "inst": -2779
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2383",
-      "name": "台光電",
-      "industry": "電子零組件業",
-      "close": 5640,
-      "chg": 80,
-      "vol": 1253,
-      "inst": 260
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2395",
-      "name": "研華",
-      "industry": "電腦及週邊設備業",
-      "close": 480,
-      "chg": 6.5,
-      "vol": 1412,
-      "inst": 308
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2408",
-      "name": "南亞科",
-      "industry": "半導體業",
-      "close": 477,
-      "chg": 33.5,
-      "vol": 110549,
-      "inst": 5839
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2409",
-      "name": "友達",
-      "industry": "光電業",
-      "close": 30.4,
-      "chg": -0.1,
-      "vol": 416201,
-      "inst": 733
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2449",
-      "name": "京元電子",
-      "industry": "半導體業",
-      "close": 334.5,
-      "chg": 1,
-      "vol": 33666,
-      "inst": 4238
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2454",
-      "name": "聯發科",
-      "industry": "半導體業",
-      "close": 4310,
-      "chg": 25,
-      "vol": 10274,
-      "inst": -343
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2455",
-      "name": "全新",
-      "industry": "通信網路業",
-      "close": 388.5,
-      "chg": -8.5,
-      "vol": 1095,
-      "inst": 62
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2464",
-      "name": "盟立",
-      "industry": "其他電子業",
-      "close": 169.5,
-      "chg": -5,
-      "vol": 8209,
-      "inst": -2552
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2474",
-      "name": "可成",
-      "industry": "其他電子業",
-      "close": 205.5,
-      "chg": -5,
-      "vol": 6819,
-      "inst": -2356
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2618",
-      "name": "長榮航",
-      "industry": "航運業",
-      "close": 44.5,
-      "chg": 0.5,
-      "vol": 69764,
-      "inst": 13664
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2646",
-      "name": "星宇航空",
-      "industry": "航運業",
-      "close": 21.95,
-      "chg": 0.25,
-      "vol": 15460,
-      "inst": 372
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2884",
-      "name": "玉山金",
-      "industry": "金融保險業",
-      "close": 35.45,
-      "chg": 0.45,
-      "vol": 76631,
-      "inst": -7661
-    },
-    {
-      "date": "2026-06-25",
-      "code": "2886",
-      "name": "兆豐金",
-      "industry": "金融保險業",
-      "close": 46.65,
-      "chg": 2.1,
-      "vol": 62170,
-      "inst": 6263
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3008",
-      "name": "大立光",
-      "industry": "光電業",
-      "close": 5165,
-      "chg": 265,
-      "vol": 3403,
-      "inst": -427
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3017",
-      "name": "奇鋐",
-      "industry": "電腦及週邊設備業",
-      "close": 2505,
-      "chg": -25,
-      "vol": 3833,
-      "inst": -210
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3037",
-      "name": "欣興",
-      "industry": "電子零組件業",
-      "close": 1020,
-      "chg": 89,
-      "vol": 34425,
-      "inst": 9444
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3105",
-      "name": "穩懋",
-      "industry": "半導體業",
-      "close": 463,
-      "chg": -15,
-      "vol": 21420,
-      "inst": -4718
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3189",
-      "name": "景碩",
-      "industry": "半導體業",
-      "close": 812,
-      "chg": 73,
-      "vol": 44515,
-      "inst": 2262
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3231",
-      "name": "緯創",
-      "industry": "電腦及週邊設備業",
-      "close": 160,
-      "chg": 2.5,
-      "vol": 42349,
-      "inst": -5734
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3324",
-      "name": "雙鴻",
-      "industry": "其他電子業",
-      "close": 1010,
-      "chg": -45,
-      "vol": 2172,
-      "inst": -875
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3338",
-      "name": "泰碩",
-      "industry": "電子零組件業",
-      "close": 73.3,
-      "chg": 0,
-      "vol": 666,
-      "inst": -269
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3363",
-      "name": "上詮",
-      "industry": "通信網路業",
-      "close": 629,
-      "chg": -41,
-      "vol": 3173,
-      "inst": 483
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3443",
-      "name": "創意",
-      "industry": "半導體業",
-      "close": 4850,
-      "chg": -30,
-      "vol": 3235,
-      "inst": 145
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3450",
-      "name": "聯鈞",
-      "industry": "半導體業",
-      "close": 586,
-      "chg": 5,
-      "vol": 15880,
-      "inst": -1486
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3481",
-      "name": "群創",
-      "industry": "光電業",
-      "close": 70.9,
-      "chg": 1.5,
-      "vol": 655357,
-      "inst": 14640
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3483",
-      "name": "力致",
-      "industry": "電腦及週邊設備業",
-      "close": 90.2,
-      "chg": -1.6,
-      "vol": 456,
-      "inst": -57
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3491",
-      "name": "昇達科",
-      "industry": "通信網路業",
-      "close": 1340,
-      "chg": -90,
-      "vol": 1890,
-      "inst": -572
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3533",
-      "name": "嘉澤",
-      "industry": "電子零組件業",
-      "close": 2225,
-      "chg": -10,
-      "vol": 563,
-      "inst": 112
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3653",
-      "name": "健策",
-      "industry": "電子零組件業",
-      "close": 3390,
-      "chg": -250,
-      "vol": 2806,
-      "inst": 149
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3661",
-      "name": "世芯-KY",
-      "industry": "半導體業",
-      "close": 4230,
-      "chg": -100,
-      "vol": 2081,
-      "inst": -374
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3665",
-      "name": "貿聯-KY",
-      "industry": "其他電子業",
-      "close": 1920,
-      "chg": -85,
-      "vol": 2566,
-      "inst": -398
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3693",
-      "name": "營邦",
-      "industry": "電腦及週邊設備業",
-      "close": 504,
-      "chg": 0,
-      "vol": 522,
-      "inst": 55
-    },
-    {
-      "date": "2026-06-25",
-      "code": "3711",
-      "name": "日月光投控",
-      "industry": "半導體業",
-      "close": 641,
-      "chg": -12,
-      "vol": 31616,
-      "inst": -6086
-    },
-    {
-      "date": "2026-06-25",
-      "code": "4916",
-      "name": "事欣科",
-      "industry": "電腦及週邊設備業",
-      "close": 99.5,
-      "chg": -2,
-      "vol": 3233,
-      "inst": -170
-    },
-    {
-      "date": "2026-06-25",
-      "code": "4958",
-      "name": "臻鼎-KY",
-      "industry": "電子零組件業",
-      "close": 602,
-      "chg": 15,
-      "vol": 37437,
-      "inst": -7526
-    },
-    {
-      "date": "2026-06-25",
-      "code": "5222",
-      "name": "全訊",
-      "industry": "半導體業",
-      "close": 117.5,
-      "chg": -1.5,
-      "vol": 303,
-      "inst": -22
-    },
-    {
-      "date": "2026-06-25",
-      "code": "5274",
-      "name": "信驊",
-      "industry": "半導體業",
-      "close": 17425,
-      "chg": -900,
-      "vol": 328,
-      "inst": -71
-    },
-    {
-      "date": "2026-06-25",
-      "code": "5426",
-      "name": "振發",
-      "industry": "電腦及週邊設備業",
-      "close": 33.2,
-      "chg": -2.25,
-      "vol": 3381,
-      "inst": 30
-    },
-    {
-      "date": "2026-06-25",
-      "code": "5452",
-      "name": "佶優",
-      "industry": "其他電子業",
-      "close": 33.4,
-      "chg": -0.55,
-      "vol": 2092,
-      "inst": -583
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6116",
-      "name": "彩晶",
-      "industry": "光電業",
-      "close": 19.5,
-      "chg": 0.1,
-      "vol": 127092,
-      "inst": -14847
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6223",
-      "name": "旺矽",
-      "industry": "半導體業",
-      "close": 6905,
-      "chg": -270,
-      "vol": 902,
-      "inst": -183
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6239",
-      "name": "力成",
-      "industry": "半導體業",
-      "close": 326,
-      "chg": -12,
-      "vol": 39962,
-      "inst": -4232
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6269",
-      "name": "台郡",
-      "industry": "電子零組件業",
-      "close": 75.9,
-      "chg": -3.1,
-      "vol": 12546,
-      "inst": -1501
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6271",
-      "name": "同欣電",
-      "industry": "半導體業",
-      "close": 271.5,
-      "chg": 20,
-      "vol": 25377,
-      "inst": 2509
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6285",
-      "name": "啟碁",
-      "industry": "通信網路業",
-      "close": 256.5,
-      "chg": 1.5,
-      "vol": 8162,
-      "inst": -38
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6290",
-      "name": "良維",
-      "industry": "電子零組件業",
-      "close": 311.5,
-      "chg": 5.5,
-      "vol": 3425,
-      "inst": -303
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6443",
-      "name": "元晶",
-      "industry": "光電業",
-      "close": 36.4,
-      "chg": -0.65,
-      "vol": 7158,
-      "inst": -308
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6446",
-      "name": "藥華藥",
-      "industry": "生技醫療業",
-      "close": 1195,
-      "chg": 35,
-      "vol": 2773,
-      "inst": 351
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6510",
-      "name": "精測",
-      "industry": "半導體業",
-      "close": 3430,
-      "chg": -35,
-      "vol": 382,
-      "inst": -15
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6515",
-      "name": "穎崴",
-      "industry": "半導體業",
-      "close": 9100,
-      "chg": -400,
-      "vol": 296,
-      "inst": -58
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6526",
-      "name": "達發",
-      "industry": "半導體業",
-      "close": 692,
-      "chg": -14,
-      "vol": 765,
-      "inst": -61
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6558",
-      "name": "興能高",
-      "industry": "其他電子業",
-      "close": 29.05,
-      "chg": -0.85,
-      "vol": 501,
-      "inst": -147
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6584",
-      "name": "南俊國際",
-      "industry": "電子零組件業",
-      "close": 728,
-      "chg": 66,
-      "vol": 2270,
-      "inst": 1113
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6669",
-      "name": "緯穎",
-      "industry": "電腦及週邊設備業",
-      "close": 4545,
-      "chg": -60,
-      "vol": 1366,
-      "inst": -187
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6691",
-      "name": "洋基工程",
-      "industry": "其他電子業",
-      "close": 797,
-      "chg": 39,
-      "vol": 1759,
-      "inst": 392
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6770",
-      "name": "力積電",
-      "industry": "半導體業",
-      "close": 83.2,
-      "chg": -2.5,
-      "vol": 479668,
-      "inst": -88906
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6805",
-      "name": "富世達",
-      "industry": "電子零組件業",
-      "close": 1750,
-      "chg": -55,
-      "vol": 950,
-      "inst": -220
-    },
-    {
-      "date": "2026-06-25",
-      "code": "6826",
-      "name": "和淞",
-      "industry": "其他電子業",
-      "close": 569,
-      "chg": 3.92,
-      "vol": 378,
-      "inst": -8
-    },
-    {
-      "date": "2026-06-25",
-      "code": "8046",
-      "name": "南電",
-      "industry": "電子零組件業",
-      "close": 1045,
-      "chg": 0,
-      "vol": 26849,
-      "inst": 5085
-    },
-    {
-      "date": "2026-06-25",
-      "code": "8069",
-      "name": "元太",
-      "industry": "光電業",
-      "close": 196.5,
-      "chg": 0,
-      "vol": 4506,
-      "inst": -248
-    },
-    {
-      "date": "2026-06-25",
-      "code": "8210",
-      "name": "勤誠",
-      "industry": "電腦及週邊設備業",
-      "close": 1285,
-      "chg": 0,
-      "vol": 845,
-      "inst": -474
-    },
     {
       "date": "2026-06-26",
       "code": "0050",
@@ -28148,429 +27308,859 @@
       "chg": 15.5,
       "vol": 22764,
       "inst": 3096
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2313",
+      "name": "華通",
+      "industry": "電子零組件業",
+      "close": 211.5,
+      "chg": -3.5,
+      "vol": 26403,
+      "inst": -2340
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2367",
+      "name": "燿華",
+      "industry": "電子零組件業",
+      "close": 44.75,
+      "chg": 0.5,
+      "vol": 7657,
+      "inst": 1102
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2368",
+      "name": "金像電",
+      "industry": "電子零組件業",
+      "close": 964,
+      "chg": 38,
+      "vol": 12948,
+      "inst": 3198
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2383",
+      "name": "台光電",
+      "industry": "電子零組件業",
+      "close": 5535,
+      "chg": 245,
+      "vol": 2818,
+      "inst": 368
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3491",
+      "name": "昇達科",
+      "industry": "通信網路業",
+      "close": 1275,
+      "chg": 40,
+      "vol": 1045,
+      "inst": 121
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6285",
+      "name": "啟碁",
+      "industry": "通信網路業",
+      "close": 254,
+      "chg": -2,
+      "vol": 9888,
+      "inst": 123
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2314",
+      "name": "台揚",
+      "industry": "通信網路業",
+      "close": 11.5,
+      "chg": -0.55,
+      "vol": 252,
+      "inst": 9
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2455",
+      "name": "全新",
+      "industry": "通信網路業",
+      "close": 367.5,
+      "chg": -17,
+      "vol": 3560,
+      "inst": 33
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3152",
+      "name": "璟德",
+      "industry": "通信網路業",
+      "close": 224.5,
+      "chg": 4.5,
+      "vol": 84,
+      "inst": 5
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6271",
+      "name": "同欣電",
+      "industry": "半導體業",
+      "close": 195.5,
+      "chg": -1.5,
+      "vol": 4630,
+      "inst": -513
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3105",
+      "name": "穩懋",
+      "industry": "半導體業",
+      "close": 371,
+      "chg": -14.5,
+      "vol": 16830,
+      "inst": -3777
+    },
+    {
+      "date": "2026-08-11",
+      "code": "5222",
+      "name": "全訊",
+      "industry": "半導體業",
+      "close": 115,
+      "chg": -2,
+      "vol": 141,
+      "inst": -38
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3481",
+      "name": "群創",
+      "industry": "光電業",
+      "close": 50.1,
+      "chg": -2.2,
+      "vol": 359824,
+      "inst": -16374
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6443",
+      "name": "元晶",
+      "industry": "光電業",
+      "close": 26.9,
+      "chg": -0.15,
+      "vol": 2703,
+      "inst": 388
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2317",
+      "name": "鴻海",
+      "industry": "其他電子業",
+      "close": 263,
+      "chg": -1.5,
+      "vol": 24592,
+      "inst": -821
+    },
+    {
+      "date": "2026-08-11",
+      "code": "4916",
+      "name": "事欣科",
+      "industry": "電腦及週邊設備業",
+      "close": 104.5,
+      "chg": 0.5,
+      "vol": 6366,
+      "inst": -760
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3324",
+      "name": "雙鴻",
+      "industry": "其他電子業",
+      "close": 1045,
+      "chg": 35,
+      "vol": 2337,
+      "inst": 504
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3017",
+      "name": "奇鋐",
+      "industry": "電腦及週邊設備業",
+      "close": 2760,
+      "chg": -5,
+      "vol": 3144,
+      "inst": 124
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2330",
+      "name": "台積電",
+      "industry": "半導體業",
+      "close": 2395,
+      "chg": 15,
+      "vol": 16862,
+      "inst": 3667
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2308",
+      "name": "台達電",
+      "industry": "電子零組件業",
+      "close": 1805,
+      "chg": -10,
+      "vol": 18634,
+      "inst": -3911
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6805",
+      "name": "富世達",
+      "industry": "電子零組件業",
+      "close": 1790,
+      "chg": 35,
+      "vol": 3277,
+      "inst": 778
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3653",
+      "name": "健策",
+      "industry": "電子零組件業",
+      "close": 4065,
+      "chg": -70,
+      "vol": 1063,
+      "inst": 46
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6269",
+      "name": "台郡",
+      "industry": "電子零組件業",
+      "close": 67.4,
+      "chg": 1.5,
+      "vol": 7869,
+      "inst": 1233
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2059",
+      "name": "川湖",
+      "industry": "電子零組件業",
+      "close": 12315,
+      "chg": 410,
+      "vol": 460,
+      "inst": 87
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6290",
+      "name": "良維",
+      "industry": "電子零組件業",
+      "close": 220,
+      "chg": 6,
+      "vol": 3194,
+      "inst": 566
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3533",
+      "name": "嘉澤",
+      "industry": "電子零組件業",
+      "close": 1990,
+      "chg": 30,
+      "vol": 1040,
+      "inst": -143
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6584",
+      "name": "南俊國際",
+      "industry": "電子零組件業",
+      "close": 538,
+      "chg": 16,
+      "vol": 679,
+      "inst": -86
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3338",
+      "name": "泰碩",
+      "industry": "電子零組件業",
+      "close": 63.1,
+      "chg": -0.2,
+      "vol": 284,
+      "inst": 24
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3037",
+      "name": "欣興",
+      "industry": "電子零組件業",
+      "close": 992,
+      "chg": 0,
+      "vol": 5181,
+      "inst": 795
+    },
+    {
+      "date": "2026-08-11",
+      "code": "4958",
+      "name": "臻鼎-KY",
+      "industry": "電子零組件業",
+      "close": 490,
+      "chg": 19.5,
+      "vol": 33414,
+      "inst": 3991
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2474",
+      "name": "可成",
+      "industry": "其他電子業",
+      "close": 206,
+      "chg": 5,
+      "vol": 6758,
+      "inst": 2495
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3665",
+      "name": "貿聯-KY",
+      "industry": "其他電子業",
+      "close": 2200,
+      "chg": 10,
+      "vol": 3555,
+      "inst": -359
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3483",
+      "name": "力致",
+      "industry": "電腦及週邊設備業",
+      "close": 73.5,
+      "chg": -0.5,
+      "vol": 218,
+      "inst": 37
+    },
+    {
+      "date": "2026-08-11",
+      "code": "8210",
+      "name": "勤誠",
+      "industry": "電腦及週邊設備業",
+      "close": 1015,
+      "chg": -60,
+      "vol": 2211,
+      "inst": -656
+    },
+    {
+      "date": "2026-08-11",
+      "code": "5426",
+      "name": "振發",
+      "industry": "電腦及週邊設備業",
+      "close": 30.8,
+      "chg": 2.8,
+      "vol": 3547,
+      "inst": 70
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2301",
+      "name": "光寶科",
+      "industry": "電腦及週邊設備業",
+      "close": 268.5,
+      "chg": -3,
+      "vol": 48868,
+      "inst": -1127
+    },
+    {
+      "date": "2026-08-11",
+      "code": "8046",
+      "name": "南電",
+      "industry": "電子零組件業",
+      "close": 1150,
+      "chg": 20,
+      "vol": 2577,
+      "inst": -428
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6239",
+      "name": "力成",
+      "industry": "半導體業",
+      "close": 282.5,
+      "chg": -6,
+      "vol": 39724,
+      "inst": -5315
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3711",
+      "name": "日月光投控",
+      "industry": "半導體業",
+      "close": 629,
+      "chg": -1,
+      "vol": 19274,
+      "inst": -562
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3189",
+      "name": "景碩",
+      "industry": "半導體業",
+      "close": 842,
+      "chg": 6,
+      "vol": 2961,
+      "inst": 611
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2356",
+      "name": "英業達",
+      "industry": "電腦及週邊設備業",
+      "close": 65.1,
+      "chg": -0.9,
+      "vol": 14649,
+      "inst": -786
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3693",
+      "name": "營邦",
+      "industry": "電腦及週邊設備業",
+      "close": 492,
+      "chg": -8,
+      "vol": 674,
+      "inst": -31
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3231",
+      "name": "緯創",
+      "industry": "電腦及週邊設備業",
+      "close": 191,
+      "chg": -2,
+      "vol": 34518,
+      "inst": 273
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6669",
+      "name": "緯穎",
+      "industry": "電腦及週邊設備業",
+      "close": 5930,
+      "chg": -80,
+      "vol": 1679,
+      "inst": -190
+    },
+    {
+      "date": "2026-08-11",
+      "code": "0050",
+      "name": "元大台灣50",
+      "industry": "ETF",
+      "close": 104.6,
+      "chg": 0.35,
+      "vol": 69314,
+      "inst": 22019
+    },
+    {
+      "date": "2026-08-11",
+      "code": "006208",
+      "name": "富邦台50",
+      "industry": "ETF",
+      "close": 238.9,
+      "chg": 0.2,
+      "vol": 1799,
+      "inst": 495
+    },
+    {
+      "date": "2026-08-11",
+      "code": "0056",
+      "name": "元大高股息",
+      "industry": "ETF",
+      "close": 52.3,
+      "chg": -0.15,
+      "vol": 25286,
+      "inst": 219
+    },
+    {
+      "date": "2026-08-11",
+      "code": "009816",
+      "name": "凱基台灣TOP50",
+      "industry": "ETF",
+      "close": 15.16,
+      "chg": 0.04,
+      "vol": 67680,
+      "inst": 10575
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2454",
+      "name": "聯發科",
+      "industry": "半導體業",
+      "close": 4020,
+      "chg": 60,
+      "vol": 7652,
+      "inst": 765
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6526",
+      "name": "達發",
+      "industry": "半導體業",
+      "close": 620,
+      "chg": -7,
+      "vol": 274,
+      "inst": 26
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2303",
+      "name": "聯電",
+      "industry": "半導體業",
+      "close": 123,
+      "chg": 0,
+      "vol": 79882,
+      "inst": 6624
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3443",
+      "name": "創意",
+      "industry": "半導體業",
+      "close": 4955,
+      "chg": 425,
+      "vol": 3470,
+      "inst": 229
+    },
+    {
+      "date": "2026-08-11",
+      "code": "5274",
+      "name": "信驊",
+      "industry": "半導體業",
+      "close": 16440,
+      "chg": -100,
+      "vol": 172,
+      "inst": 38
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6515",
+      "name": "穎崴",
+      "industry": "半導體業",
+      "close": 6920,
+      "chg": 90,
+      "vol": 179,
+      "inst": -1
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6770",
+      "name": "力積電",
+      "industry": "半導體業",
+      "close": 67,
+      "chg": -0.6,
+      "vol": 110831,
+      "inst": 4221
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2408",
+      "name": "南亞科",
+      "industry": "半導體業",
+      "close": 489,
+      "chg": -13,
+      "vol": 113682,
+      "inst": 15315
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2344",
+      "name": "華邦電",
+      "industry": "半導體業",
+      "close": 178,
+      "chg": -1.5,
+      "vol": 194694,
+      "inst": 37902
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2449",
+      "name": "京元電子",
+      "industry": "半導體業",
+      "close": 246,
+      "chg": -2.5,
+      "vol": 17657,
+      "inst": -4889
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3661",
+      "name": "世芯-KY",
+      "industry": "半導體業",
+      "close": 3955,
+      "chg": 155,
+      "vol": 4659,
+      "inst": 462
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6510",
+      "name": "精測",
+      "industry": "半導體業",
+      "close": 2800,
+      "chg": -45,
+      "vol": 313,
+      "inst": 0
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2379",
+      "name": "瑞昱",
+      "industry": "半導體業",
+      "close": 772,
+      "chg": 14,
+      "vol": 2362,
+      "inst": 354
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3450",
+      "name": "聯鈞",
+      "industry": "半導體業",
+      "close": 473.5,
+      "chg": -50.5,
+      "vol": 4428,
+      "inst": 46
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6223",
+      "name": "旺矽",
+      "industry": "半導體業",
+      "close": 6315,
+      "chg": 90,
+      "vol": 487,
+      "inst": 6
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2886",
+      "name": "兆豐金",
+      "industry": "金融保險業",
+      "close": 49.4,
+      "chg": -1.6,
+      "vol": 32199,
+      "inst": -14868
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2884",
+      "name": "玉山金",
+      "industry": "金融保險業",
+      "close": 36.9,
+      "chg": -0.9,
+      "vol": 37303,
+      "inst": -9448
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2327",
+      "name": "國巨",
+      "industry": "電子零組件業",
+      "close": 617,
+      "chg": 44,
+      "vol": 81651,
+      "inst": -5485
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2618",
+      "name": "長榮航",
+      "industry": "航運業",
+      "close": 41.75,
+      "chg": -0.9,
+      "vol": 36660,
+      "inst": -2752
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2646",
+      "name": "星宇航空",
+      "industry": "航運業",
+      "close": 20.75,
+      "chg": 0,
+      "vol": 4619,
+      "inst": -1187
+    },
+    {
+      "date": "2026-08-11",
+      "code": "1802",
+      "name": "台玻",
+      "industry": "玻璃陶瓷業",
+      "close": 55.9,
+      "chg": 1.2,
+      "vol": 26836,
+      "inst": 4760
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6446",
+      "name": "藥華藥",
+      "industry": "生技醫療業",
+      "close": 1460,
+      "chg": 130,
+      "vol": 5614,
+      "inst": 1789
+    },
+    {
+      "date": "2026-08-11",
+      "code": "1101",
+      "name": "台泥",
+      "industry": "水泥工業",
+      "close": 24.65,
+      "chg": 0.1,
+      "vol": 19811,
+      "inst": 2833
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6558",
+      "name": "興能高",
+      "industry": "其他電子業",
+      "close": 26.8,
+      "chg": 0.05,
+      "vol": 268,
+      "inst": 71
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6691",
+      "name": "洋基工程",
+      "industry": "其他電子業",
+      "close": 728,
+      "chg": -4,
+      "vol": 341,
+      "inst": -63
+    },
+    {
+      "date": "2026-08-11",
+      "code": "5452",
+      "name": "佶優",
+      "industry": "其他電子業",
+      "close": 26.85,
+      "chg": -0.35,
+      "vol": 333,
+      "inst": -2
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6826",
+      "name": "和淞",
+      "industry": "其他電子業",
+      "close": 506,
+      "chg": -8.11,
+      "vol": 76,
+      "inst": -19
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2464",
+      "name": "盟立",
+      "industry": "其他電子業",
+      "close": 187.5,
+      "chg": 7.5,
+      "vol": 26698,
+      "inst": 3389
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3008",
+      "name": "大立光",
+      "industry": "光電業",
+      "close": 4355,
+      "chg": -45,
+      "vol": 1544,
+      "inst": -140
+    },
+    {
+      "date": "2026-08-11",
+      "code": "8069",
+      "name": "元太",
+      "industry": "光電業",
+      "close": 165,
+      "chg": -11.5,
+      "vol": 17639,
+      "inst": -9699
+    },
+    {
+      "date": "2026-08-11",
+      "code": "6116",
+      "name": "彩晶",
+      "industry": "光電業",
+      "close": 14.2,
+      "chg": -0.7,
+      "vol": 47104,
+      "inst": -5495
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2409",
+      "name": "友達",
+      "industry": "光電業",
+      "close": 26.1,
+      "chg": -0.9,
+      "vol": 459871,
+      "inst": -60473
+    },
+    {
+      "date": "2026-08-11",
+      "code": "3363",
+      "name": "上詮",
+      "industry": "通信網路業",
+      "close": 606,
+      "chg": -34,
+      "vol": 4265,
+      "inst": -723
+    },
+    {
+      "date": "2026-08-11",
+      "code": "1711",
+      "name": "永光",
+      "industry": "化學工業",
+      "close": 37.85,
+      "chg": -0.2,
+      "vol": 12713,
+      "inst": -2851
+    },
+    {
+      "date": "2026-08-11",
+      "code": "1303",
+      "name": "南亞",
+      "industry": "塑膠工業",
+      "close": 190,
+      "chg": 5,
+      "vol": 102680,
+      "inst": 13042
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2395",
+      "name": "研華",
+      "industry": "電腦及週邊設備業",
+      "close": 661,
+      "chg": -6,
+      "vol": 4165,
+      "inst": -100
+    },
+    {
+      "date": "2026-08-11",
+      "code": "2382",
+      "name": "廣達",
+      "industry": "電腦及週邊設備業",
+      "close": 315.5,
+      "chg": 2,
+      "vol": 15798,
+      "inst": -1355
     }
   ],
   "STOCK_HISTORY_EXT": {
-    "2026-06-25|0050": [
-      -23491,
-      2150,
-      -5294
-    ],
-    "2026-06-25|0056": [
-      766,
-      0,
-      -623
-    ],
-    "2026-06-25|006208": [
-      -35,
-      0,
-      46
-    ],
-    "2026-06-25|009816": [
-      6086,
-      0,
-      -52177
-    ],
-    "2026-06-25|1101": [
-      12700,
-      -9,
-      191
-    ],
-    "2026-06-25|1303": [
-      -6803,
-      11009,
-      892
-    ],
-    "2026-06-25|1711": [
-      -1728,
-      0,
-      -56
-    ],
-    "2026-06-25|1802": [
-      11113,
-      0,
-      -1164
-    ],
-    "2026-06-25|2059": [
-      127,
-      -51,
-      1
-    ],
-    "2026-06-25|2301": [
-      -1292,
-      -3502,
-      -129
-    ],
-    "2026-06-25|2303": [
-      11768,
-      -26376,
-      3926
-    ],
-    "2026-06-25|2308": [
-      -138,
-      -1197,
-      85
-    ],
-    "2026-06-25|2313": [
-      -6247,
-      2,
-      -738
-    ],
-    "2026-06-25|2314": [
-      2,
-      0,
-      0
-    ],
-    "2026-06-25|2317": [
-      -2632,
-      1168,
-      394
-    ],
-    "2026-06-25|2327": [
-      -2709,
-      3350,
-      157
-    ],
-    "2026-06-25|2330": [
-      -6104,
-      179,
-      -310
-    ],
-    "2026-06-25|2344": [
-      -16919,
-      37036,
-      955
-    ],
-    "2026-06-25|2356": [
-      2736,
-      -102,
-      -480
-    ],
-    "2026-06-25|2367": [
-      -1135,
-      0,
-      -74
-    ],
-    "2026-06-25|2368": [
-      1598,
-      -701,
-      -35
-    ],
-    "2026-06-25|2379": [
-      -830,
-      13,
-      -10
-    ],
-    "2026-06-25|2382": [
-      -5591,
-      2864,
-      -53
-    ],
-    "2026-06-25|2383": [
-      354,
-      14,
-      -109
-    ],
-    "2026-06-25|2395": [
-      355,
-      14,
-      -61
-    ],
-    "2026-06-25|2408": [
-      -10246,
-      15911,
-      173
-    ],
-    "2026-06-25|2409": [
-      2191,
-      -25,
-      -1433
-    ],
-    "2026-06-25|2449": [
-      7790,
-      -3810,
-      258
-    ],
-    "2026-06-25|2454": [
-      1363,
-      -1689,
-      -17
-    ],
-    "2026-06-25|2455": [
-      149,
-      0,
-      -88
-    ],
-    "2026-06-25|2464": [
-      -2416,
-      3,
-      -140
-    ],
-    "2026-06-25|2474": [
-      -1930,
-      -458,
-      32
-    ],
-    "2026-06-25|2618": [
-      13423,
-      -283,
-      524
-    ],
-    "2026-06-25|2646": [
-      376,
-      0,
-      -4
-    ],
-    "2026-06-25|2884": [
-      -30257,
-      22770,
-      -174
-    ],
-    "2026-06-25|2886": [
-      -26839,
-      32401,
-      701
-    ],
-    "2026-06-25|3008": [
-      -693,
-      197,
-      69
-    ],
-    "2026-06-25|3017": [
-      -345,
-      159,
-      -24
-    ],
-    "2026-06-25|3037": [
-      6228,
-      2754,
-      463
-    ],
-    "2026-06-25|3105": [
-      -3924,
-      -138,
-      -656
-    ],
-    "2026-06-25|3189": [
-      -1202,
-      3176,
-      287
-    ],
-    "2026-06-25|3231": [
-      -13680,
-      7671,
-      275
-    ],
-    "2026-06-25|3324": [
-      -755,
-      0,
-      -120
-    ],
-    "2026-06-25|3338": [
-      -269,
-      0,
-      1
-    ],
-    "2026-06-25|3363": [
-      676,
-      -193,
-      0
-    ],
-    "2026-06-25|3443": [
-      -44,
-      241,
-      -52
-    ],
-    "2026-06-25|3450": [
-      -1518,
-      15,
-      17
-    ],
-    "2026-06-25|3481": [
-      10244,
-      641,
-      3755
-    ],
-    "2026-06-25|3483": [
-      -47,
-      0,
-      -10
-    ],
-    "2026-06-25|3491": [
-      -580,
-      1,
-      6
-    ],
-    "2026-06-25|3533": [
-      126,
-      6,
-      -21
-    ],
-    "2026-06-25|3653": [
-      253,
-      -106,
-      2
-    ],
-    "2026-06-25|3661": [
-      -311,
-      -49,
-      -13
-    ],
-    "2026-06-25|3665": [
-      -125,
-      -246,
-      -27
-    ],
-    "2026-06-25|3693": [
-      39,
-      0,
-      16
-    ],
-    "2026-06-25|3711": [
-      235,
-      -5775,
-      -546
-    ],
-    "2026-06-25|4916": [
-      -147,
-      0,
-      -23
-    ],
-    "2026-06-25|4958": [
-      -7349,
-      -337,
-      161
-    ],
-    "2026-06-25|5222": [
-      -17,
-      0,
-      -5
-    ],
-    "2026-06-25|5274": [
-      -1,
-      -70,
-      0
-    ],
-    "2026-06-25|5426": [
-      61,
-      0,
-      -30
-    ],
-    "2026-06-25|5452": [
-      -582,
-      0,
-      -2
-    ],
-    "2026-06-25|6116": [
-      -14464,
-      35,
-      -417
-    ],
-    "2026-06-25|6223": [
-      -217,
-      45,
-      -11
-    ],
-    "2026-06-25|6239": [
-      -2967,
-      224,
-      -1488
-    ],
-    "2026-06-25|6269": [
-      -1209,
-      0,
-      -292
-    ],
-    "2026-06-25|6271": [
-      1756,
-      482,
-      272
-    ],
-    "2026-06-25|6285": [
-      881,
-      -833,
-      -86
-    ],
-    "2026-06-25|6290": [
-      -309,
-      0,
-      6
-    ],
-    "2026-06-25|6443": [
-      -351,
-      0,
-      44
-    ],
-    "2026-06-25|6446": [
-      344,
-      31,
-      -25
-    ],
-    "2026-06-25|6510": [
-      -4,
-      -15,
-      5
-    ],
-    "2026-06-25|6515": [
-      -68,
-      6,
-      4
-    ],
-    "2026-06-25|6526": [
-      -75,
-      16,
-      -2
-    ],
-    "2026-06-25|6558": [
-      -147,
-      0,
-      0
-    ],
-    "2026-06-25|6584": [
-      1018,
-      92,
-      3
-    ],
-    "2026-06-25|6669": [
-      -92,
-      -13,
-      -83
-    ],
-    "2026-06-25|6691": [
-      376,
-      1,
-      15
-    ],
-    "2026-06-25|6770": [
-      -87947,
-      799,
-      -1758
-    ],
-    "2026-06-25|6805": [
-      -193,
-      -18,
-      -9
-    ],
-    "2026-06-25|6826": [
-      -8,
-      0,
-      0
-    ],
-    "2026-06-25|8046": [
-      4303,
-      485,
-      297
-    ],
-    "2026-06-25|8069": [
-      208,
-      -393,
-      -63
-    ],
-    "2026-06-25|8210": [
-      -398,
-      -78,
-      2
-    ],
     "2026-06-26|0050": [
       -130305,
       4900,
@@ -41735,93 +41325,434 @@
       2327,
       323,
       447
+    ],
+    "2026-08-11|2313": [
+      108,
+      -1981,
+      -466
+    ],
+    "2026-08-11|2367": [
+      1159,
+      -4,
+      -53
+    ],
+    "2026-08-11|2368": [
+      1450,
+      1533,
+      215
+    ],
+    "2026-08-11|2383": [
+      260,
+      118,
+      -11
+    ],
+    "2026-08-11|3491": [
+      113,
+      -1,
+      9
+    ],
+    "2026-08-11|6285": [
+      -399,
+      386,
+      136
+    ],
+    "2026-08-11|2314": [
+      9,
+      0,
+      0
+    ],
+    "2026-08-11|2455": [
+      135,
+      -6,
+      -95
+    ],
+    "2026-08-11|3152": [
+      15,
+      0,
+      -11
+    ],
+    "2026-08-11|6271": [
+      -370,
+      -4,
+      -140
+    ],
+    "2026-08-11|3105": [
+      -3759,
+      85,
+      -102
+    ],
+    "2026-08-11|5222": [
+      -40,
+      0,
+      1
+    ],
+    "2026-08-11|3481": [
+      -12042,
+      -60,
+      -4272
+    ],
+    "2026-08-11|6443": [
+      408,
+      0,
+      -20
+    ],
+    "2026-08-11|2317": [
+      -1139,
+      398,
+      -79
+    ],
+    "2026-08-11|4916": [
+      -761,
+      0,
+      1
+    ],
+    "2026-08-11|3324": [
+      416,
+      0,
+      88
+    ],
+    "2026-08-11|3017": [
+      -6,
+      -20,
+      149
+    ],
+    "2026-08-11|2330": [
+      3498,
+      357,
+      -189
+    ],
+    "2026-08-11|2308": [
+      -4629,
+      1048,
+      -329
+    ],
+    "2026-08-11|6805": [
+      -417,
+      1183,
+      12
+    ],
+    "2026-08-11|3653": [
+      117,
+      -128,
+      57
+    ],
+    "2026-08-11|6269": [
+      1248,
+      0,
+      -15
+    ],
+    "2026-08-11|2059": [
+      77,
+      -4,
+      13
+    ],
+    "2026-08-11|6290": [
+      510,
+      0,
+      56
+    ],
+    "2026-08-11|3533": [
+      -139,
+      -1,
+      -3
+    ],
+    "2026-08-11|6584": [
+      -85,
+      0,
+      -1
+    ],
+    "2026-08-11|3338": [
+      23,
+      0,
+      0
+    ],
+    "2026-08-11|3037": [
+      904,
+      -68,
+      -41
+    ],
+    "2026-08-11|4958": [
+      3148,
+      -14,
+      857
+    ],
+    "2026-08-11|2474": [
+      2348,
+      28,
+      120
+    ],
+    "2026-08-11|3665": [
+      252,
+      -607,
+      -4
+    ],
+    "2026-08-11|3483": [
+      36,
+      0,
+      1
+    ],
+    "2026-08-11|8210": [
+      -343,
+      -319,
+      5
+    ],
+    "2026-08-11|5426": [
+      61,
+      0,
+      9
+    ],
+    "2026-08-11|2301": [
+      -307,
+      -19,
+      -802
+    ],
+    "2026-08-11|8046": [
+      -408,
+      4,
+      -24
+    ],
+    "2026-08-11|6239": [
+      -5540,
+      525,
+      -300
+    ],
+    "2026-08-11|3711": [
+      -124,
+      36,
+      -474
+    ],
+    "2026-08-11|3189": [
+      209,
+      -1,
+      403
+    ],
+    "2026-08-11|2356": [
+      -536,
+      -20,
+      -230
+    ],
+    "2026-08-11|3693": [
+      -11,
+      0,
+      -20
+    ],
+    "2026-08-11|3231": [
+      -374,
+      629,
+      18
+    ],
+    "2026-08-11|6669": [
+      171,
+      -399,
+      38
+    ],
+    "2026-08-11|0050": [
+      18569,
+      -300,
+      3750
+    ],
+    "2026-08-11|006208": [
+      343,
+      0,
+      152
+    ],
+    "2026-08-11|0056": [
+      60,
+      0,
+      159
+    ],
+    "2026-08-11|009816": [
+      -7618,
+      0,
+      18193
+    ],
+    "2026-08-11|2454": [
+      837,
+      -167,
+      95
+    ],
+    "2026-08-11|6526": [
+      25,
+      0,
+      1
+    ],
+    "2026-08-11|2303": [
+      9600,
+      -3983,
+      1007
+    ],
+    "2026-08-11|3443": [
+      164,
+      13,
+      51
+    ],
+    "2026-08-11|5274": [
+      42,
+      -3,
+      -2
+    ],
+    "2026-08-11|6515": [
+      3,
+      -5,
+      2
+    ],
+    "2026-08-11|6770": [
+      3989,
+      -4,
+      236
+    ],
+    "2026-08-11|2408": [
+      15173,
+      313,
+      -171
+    ],
+    "2026-08-11|2344": [
+      37872,
+      -192,
+      222
+    ],
+    "2026-08-11|2449": [
+      -4934,
+      67,
+      -22
+    ],
+    "2026-08-11|3661": [
+      722,
+      -327,
+      67
+    ],
+    "2026-08-11|6510": [
+      -92,
+      99,
+      -7
+    ],
+    "2026-08-11|2379": [
+      314,
+      32,
+      7
+    ],
+    "2026-08-11|3450": [
+      -17,
+      -27,
+      90
+    ],
+    "2026-08-11|6223": [
+      -25,
+      23,
+      8
+    ],
+    "2026-08-11|2886": [
+      -17172,
+      2285,
+      20
+    ],
+    "2026-08-11|2884": [
+      -9676,
+      419,
+      -191
+    ],
+    "2026-08-11|2327": [
+      -7790,
+      2121,
+      184
+    ],
+    "2026-08-11|2618": [
+      -2470,
+      8,
+      -289
+    ],
+    "2026-08-11|2646": [
+      -1171,
+      -14,
+      -2
+    ],
+    "2026-08-11|1802": [
+      4354,
+      -5,
+      411
+    ],
+    "2026-08-11|6446": [
+      1761,
+      -1,
+      29
+    ],
+    "2026-08-11|1101": [
+      2937,
+      -44,
+      -59
+    ],
+    "2026-08-11|6558": [
+      71,
+      0,
+      0
+    ],
+    "2026-08-11|6691": [
+      -54,
+      -1,
+      -8
+    ],
+    "2026-08-11|5452": [
+      8,
+      0,
+      -10
+    ],
+    "2026-08-11|6826": [
+      -19,
+      0,
+      0
+    ],
+    "2026-08-11|2464": [
+      3282,
+      1,
+      107
+    ],
+    "2026-08-11|3008": [
+      -106,
+      -23,
+      -12
+    ],
+    "2026-08-11|8069": [
+      -9133,
+      -63,
+      -502
+    ],
+    "2026-08-11|6116": [
+      -4908,
+      7,
+      -593
+    ],
+    "2026-08-11|2409": [
+      -56259,
+      113,
+      -4327
+    ],
+    "2026-08-11|3363": [
+      -678,
+      0,
+      -44
+    ],
+    "2026-08-11|1711": [
+      -2856,
+      0,
+      5
+    ],
+    "2026-08-11|1303": [
+      7475,
+      4500,
+      1067
+    ],
+    "2026-08-11|2395": [
+      -69,
+      2,
+      -33
+    ],
+    "2026-08-11|2382": [
+      -1442,
+      157,
+      -71
     ]
   },
   "INDUSTRY_FLOW": [
-    {
-      "date": "2026-06-25",
-      "industry": "ETF",
-      "inst": -72572,
-      "stockCount": 4
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "光電業",
-      "inst": -457,
-      "stockCount": 6
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "其他電子業",
-      "inst": -7597,
-      "stockCount": 9
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "化學工業",
-      "inst": -1784,
-      "stockCount": 1
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "半導體業",
-      "inst": -88235,
-      "stockCount": 22
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "塑膠工業",
-      "inst": 5099,
-      "stockCount": 1
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "水泥工業",
-      "inst": 12882,
-      "stockCount": 1
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "玻璃陶瓷業",
-      "inst": 9949,
-      "stockCount": 1
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "生技醫療業",
-      "inst": 351,
-      "stockCount": 1
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "航運業",
-      "inst": 14036,
-      "stockCount": 2
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "通信網路業",
-      "inst": -63,
-      "stockCount": 5
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "金融保險業",
-      "inst": -1398,
-      "stockCount": 2
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "電子零組件業",
-      "inst": -1361,
-      "stockCount": 17
-    },
-    {
-      "date": "2026-06-25",
-      "industry": "電腦及週邊設備業",
-      "inst": -11988,
-      "stockCount": 12
-    },
     {
       "date": "2026-06-26",
       "industry": "ETF",
@@ -44425,6 +44356,90 @@
       "industry": "電腦及週邊設備業",
       "inst": 19528,
       "stockCount": 12
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "ETF",
+      "inst": 33308,
+      "stockCount": 4
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "光電業",
+      "inst": -91793,
+      "stockCount": 6
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "其他電子業",
+      "inst": 5195,
+      "stockCount": 9
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "化學工業",
+      "inst": -2851,
+      "stockCount": 1
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "半導體業",
+      "inst": 55171,
+      "stockCount": 22
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "塑膠工業",
+      "inst": 13042,
+      "stockCount": 1
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "水泥工業",
+      "inst": 2833,
+      "stockCount": 1
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "玻璃陶瓷業",
+      "inst": 4760,
+      "stockCount": 1
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "生技醫療業",
+      "inst": 1789,
+      "stockCount": 1
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "航運業",
+      "inst": -3939,
+      "stockCount": 2
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "通信網路業",
+      "inst": -432,
+      "stockCount": 6
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "金融保險業",
+      "inst": -24316,
+      "stockCount": 2
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "電子零組件業",
+      "inst": -205,
+      "stockCount": 17
+    },
+    {
+      "date": "2026-08-11",
+      "industry": "電腦及週邊設備業",
+      "inst": -4501,
+      "stockCount": 12
     }
   ],
   "MAJOR_HOLDER": {
@@ -44856,22 +44871,13 @@
   },
   "TAIEX_HISTORY": [
     {
-      "date": "2026-05-11",
-      "open": 41714,
-      "high": 42021.78,
-      "low": 41529.25,
-      "close": 41790.06,
-      "dailyFlow": 16483.2,
-      "cumFlow": 16483.2
-    },
-    {
       "date": "2026-05-12",
       "open": 41880.66,
       "high": 42253.42,
       "low": 41471.57,
       "close": 41898.32,
       "dailyFlow": 64822.2,
-      "cumFlow": 81305.4
+      "cumFlow": 64822.2
     },
     {
       "date": "2026-05-13",
@@ -44880,7 +44886,7 @@
       "low": 41014.53,
       "close": 41374.5,
       "dailyFlow": -15142.3,
-      "cumFlow": 66163.1
+      "cumFlow": 49679.9
     },
     {
       "date": "2026-05-14",
@@ -44889,7 +44895,7 @@
       "low": 41496.23,
       "close": 41751.75,
       "dailyFlow": 12755,
-      "cumFlow": 78918.1
+      "cumFlow": 62434.9
     },
     {
       "date": "2026-05-15",
@@ -44898,7 +44904,7 @@
       "low": 41016.73,
       "close": 41172.36,
       "dailyFlow": 129410.9,
-      "cumFlow": 208329
+      "cumFlow": 191845.8
     },
     {
       "date": "2026-05-18",
@@ -44907,7 +44913,7 @@
       "low": 40170.17,
       "close": 40891.82,
       "dailyFlow": -36155.8,
-      "cumFlow": 172173.2
+      "cumFlow": 155690
     },
     {
       "date": "2026-05-19",
@@ -44916,7 +44922,7 @@
       "low": 40168.51,
       "close": 40175.56,
       "dailyFlow": 15688.7,
-      "cumFlow": 187861.9
+      "cumFlow": 171378.7
     },
     {
       "date": "2026-05-20",
@@ -44925,7 +44931,7 @@
       "low": 39967.08,
       "close": 40020.82,
       "dailyFlow": -77513.4,
-      "cumFlow": 110348.5
+      "cumFlow": 93865.3
     },
     {
       "date": "2026-05-21",
@@ -44934,7 +44940,7 @@
       "low": 40263.18,
       "close": 41368.21,
       "dailyFlow": 49780.7,
-      "cumFlow": 160129.2
+      "cumFlow": 143646
     },
     {
       "date": "2026-05-22",
@@ -44943,7 +44949,7 @@
       "low": 41447.92,
       "close": 42267.97,
       "dailyFlow": -32482.7,
-      "cumFlow": 127646.5
+      "cumFlow": 111163.3
     },
     {
       "date": "2026-05-25",
@@ -44952,7 +44958,7 @@
       "low": 42667.87,
       "close": 43644.4,
       "dailyFlow": 108729.9,
-      "cumFlow": 236376.4
+      "cumFlow": 219893.2
     },
     {
       "date": "2026-05-26",
@@ -44961,7 +44967,7 @@
       "low": 43349.77,
       "close": 43525.37,
       "dailyFlow": 107158.2,
-      "cumFlow": 343534.6
+      "cumFlow": 327051.4
     },
     {
       "date": "2026-05-27",
@@ -44970,7 +44976,7 @@
       "low": 43842.26,
       "close": 44256.8,
       "dailyFlow": 56900.8,
-      "cumFlow": 400435.4
+      "cumFlow": 383952.2
     },
     {
       "date": "2026-05-28",
@@ -44979,7 +44985,7 @@
       "low": 43236.36,
       "close": 43636.44,
       "dailyFlow": -27177.1,
-      "cumFlow": 373258.3
+      "cumFlow": 356775.1
     },
     {
       "date": "2026-05-29",
@@ -44988,7 +44994,7 @@
       "low": 43815.48,
       "close": 44732.94,
       "dailyFlow": 28518.5,
-      "cumFlow": 401776.8
+      "cumFlow": 385293.6
     },
     {
       "date": "2026-06-01",
@@ -44997,7 +45003,7 @@
       "low": 44872.82,
       "close": 45337.91,
       "dailyFlow": -24299,
-      "cumFlow": 377477.8
+      "cumFlow": 360994.6
     },
     {
       "date": "2026-06-02",
@@ -45006,7 +45012,7 @@
       "low": 44869.38,
       "close": 45557.31,
       "dailyFlow": -27036.1,
-      "cumFlow": 350441.7
+      "cumFlow": 333958.5
     },
     {
       "date": "2026-06-03",
@@ -45015,7 +45021,7 @@
       "low": 45660.46,
       "close": 46459.16,
       "dailyFlow": -41158,
-      "cumFlow": 309283.7
+      "cumFlow": 292800.5
     },
     {
       "date": "2026-06-04",
@@ -45024,7 +45030,7 @@
       "low": 45677.46,
       "close": 45677.46,
       "dailyFlow": -52307,
-      "cumFlow": 256976.7
+      "cumFlow": 240493.5
     },
     {
       "date": "2026-06-05",
@@ -45033,7 +45039,7 @@
       "low": 44209.53,
       "close": 45070.94,
       "dailyFlow": -16253.5,
-      "cumFlow": 240723.2
+      "cumFlow": 224240
     },
     {
       "date": "2026-06-08",
@@ -45042,7 +45048,7 @@
       "low": 42376.86,
       "close": 43502.78,
       "dailyFlow": -70917.2,
-      "cumFlow": 169806
+      "cumFlow": 153322.8
     },
     {
       "date": "2026-06-09",
@@ -45051,7 +45057,7 @@
       "low": 43687.62,
       "close": 44704.44,
       "dailyFlow": -88013.2,
-      "cumFlow": 81792.8
+      "cumFlow": 65309.6
     },
     {
       "date": "2026-06-10",
@@ -45060,7 +45066,7 @@
       "low": 43225.54,
       "close": 43225.54,
       "dailyFlow": -105478.9,
-      "cumFlow": -23686.1
+      "cumFlow": -40169.3
     },
     {
       "date": "2026-06-11",
@@ -45069,7 +45075,7 @@
       "low": 42006.39,
       "close": 43149.46,
       "dailyFlow": -23627.2,
-      "cumFlow": -47313.3
+      "cumFlow": -63796.5
     },
     {
       "date": "2026-06-12",
@@ -45078,7 +45084,7 @@
       "low": 43587.63,
       "close": 44169.04,
       "dailyFlow": 42143.5,
-      "cumFlow": -5169.8
+      "cumFlow": -21653
     },
     {
       "date": "2026-06-15",
@@ -45087,7 +45093,7 @@
       "low": 44447.87,
       "close": 45396.99,
       "dailyFlow": 43839.5,
-      "cumFlow": 38669.7
+      "cumFlow": 22186.5
     },
     {
       "date": "2026-06-16",
@@ -45096,7 +45102,7 @@
       "low": 45266.34,
       "close": 45809.19,
       "dailyFlow": 66259.1,
-      "cumFlow": 104928.8
+      "cumFlow": 88445.6
     },
     {
       "date": "2026-06-17",
@@ -45105,7 +45111,7 @@
       "low": 45159.51,
       "close": 45877.39,
       "dailyFlow": -52665.8,
-      "cumFlow": 52263
+      "cumFlow": 35779.8
     },
     {
       "date": "2026-06-18",
@@ -45114,7 +45120,7 @@
       "low": 45972.26,
       "close": 46465.2,
       "dailyFlow": -4584.3,
-      "cumFlow": 47678.7
+      "cumFlow": 31195.5
     },
     {
       "date": "2026-06-22",
@@ -45123,7 +45129,7 @@
       "low": 46679.57,
       "close": 47741.51,
       "dailyFlow": 1469.8,
-      "cumFlow": 49148.5
+      "cumFlow": 32665.3
     },
     {
       "date": "2026-06-23",
@@ -45132,7 +45138,7 @@
       "low": 47100.65,
       "close": 47100.65,
       "dailyFlow": -15152.5,
-      "cumFlow": 33996
+      "cumFlow": 17512.8
     },
     {
       "date": "2026-06-24",
@@ -45141,7 +45147,7 @@
       "low": 45819.71,
       "close": 46043.6,
       "dailyFlow": -90706.3,
-      "cumFlow": -56710.3
+      "cumFlow": -73193.5
     },
     {
       "date": "2026-06-25",
@@ -45150,7 +45156,7 @@
       "low": 46048.7,
       "close": 46255.26,
       "dailyFlow": -16514.4,
-      "cumFlow": -73224.7
+      "cumFlow": -89707.9
     },
     {
       "date": "2026-06-26",
@@ -45159,7 +45165,7 @@
       "low": 44454.22,
       "close": 44571.76,
       "dailyFlow": -106089.3,
-      "cumFlow": -179314
+      "cumFlow": -195797.2
     },
     {
       "date": "2026-06-29",
@@ -45168,7 +45174,7 @@
       "low": 44594.81,
       "close": 44999.9,
       "dailyFlow": -33368.2,
-      "cumFlow": -212682.2
+      "cumFlow": -229165.4
     },
     {
       "date": "2026-06-30",
@@ -45177,7 +45183,7 @@
       "low": 45165.8,
       "close": 46125.91,
       "dailyFlow": -34733.3,
-      "cumFlow": -247415.5
+      "cumFlow": -263898.7
     },
     {
       "date": "2026-07-01",
@@ -45186,7 +45192,7 @@
       "low": 46234.7,
       "close": 47018.99,
       "dailyFlow": 36279.3,
-      "cumFlow": -211136.2
+      "cumFlow": -227619.4
     },
     {
       "date": "2026-07-02",
@@ -45195,7 +45201,7 @@
       "low": 45981.89,
       "close": 46744.16,
       "dailyFlow": -77885.8,
-      "cumFlow": -289022
+      "cumFlow": -305505.2
     },
     {
       "date": "2026-07-03",
@@ -45204,7 +45210,7 @@
       "low": 45880.69,
       "close": 46780.62,
       "dailyFlow": -3812.9,
-      "cumFlow": -292834.9
+      "cumFlow": -309318.1
     },
     {
       "date": "2026-07-06",
@@ -45213,7 +45219,7 @@
       "low": 46431.38,
       "close": 46556.39,
       "dailyFlow": -26374.9,
-      "cumFlow": -319209.8
+      "cumFlow": -335693
     },
     {
       "date": "2026-07-07",
@@ -45222,7 +45228,7 @@
       "low": 45432.02,
       "close": 45479.11,
       "dailyFlow": -45879.1,
-      "cumFlow": -365088.9
+      "cumFlow": -381572.1
     },
     {
       "date": "2026-07-08",
@@ -45231,7 +45237,7 @@
       "low": 45036.64,
       "close": 45734.41,
       "dailyFlow": 8813.6,
-      "cumFlow": -356275.3
+      "cumFlow": -372758.5
     },
     {
       "date": "2026-07-09",
@@ -45240,7 +45246,7 @@
       "low": 45352.41,
       "close": 45354.61,
       "dailyFlow": -31851.4,
-      "cumFlow": -388126.7
+      "cumFlow": -404609.9
     },
     {
       "date": "2026-07-13",
@@ -45249,7 +45255,7 @@
       "low": 45272.9,
       "close": 45380.52,
       "dailyFlow": -11203.8,
-      "cumFlow": -399330.5
+      "cumFlow": -415813.7
     },
     {
       "date": "2026-07-14",
@@ -45258,7 +45264,7 @@
       "low": 43654.04,
       "close": 44737.95,
       "dailyFlow": -14885.4,
-      "cumFlow": -414215.9
+      "cumFlow": -430699.1
     },
     {
       "date": "2026-07-15",
@@ -45267,7 +45273,7 @@
       "low": 44850.69,
       "close": 45631.59,
       "dailyFlow": 14508.5,
-      "cumFlow": -399707.4
+      "cumFlow": -416190.6
     },
     {
       "date": "2026-07-16",
@@ -45276,7 +45282,7 @@
       "low": 44970.64,
       "close": 45624.98,
       "dailyFlow": -27459,
-      "cumFlow": -427166.4
+      "cumFlow": -443649.6
     },
     {
       "date": "2026-07-17",
@@ -45285,7 +45291,7 @@
       "low": 42671.27,
       "close": 42671.27,
       "dailyFlow": -116531,
-      "cumFlow": -543697.4
+      "cumFlow": -560180.6
     },
     {
       "date": "2026-07-20",
@@ -45294,7 +45300,7 @@
       "low": 41967.75,
       "close": 42449.7,
       "dailyFlow": -20217,
-      "cumFlow": -563914.4
+      "cumFlow": -580397.6
     },
     {
       "date": "2026-07-21",
@@ -45303,7 +45309,7 @@
       "low": 42566.93,
       "close": 44232.87,
       "dailyFlow": 17758,
-      "cumFlow": -546156.4
+      "cumFlow": -562639.6
     },
     {
       "date": "2026-07-22",
@@ -45312,7 +45318,7 @@
       "low": 44513.75,
       "close": 44825.78,
       "dailyFlow": 21228,
-      "cumFlow": -524928.4
+      "cumFlow": -541411.6
     },
     {
       "date": "2026-07-23",
@@ -45321,7 +45327,7 @@
       "low": 44340.76,
       "close": 44850.81,
       "dailyFlow": 19685,
-      "cumFlow": -505243.4
+      "cumFlow": -521726.6
     },
     {
       "date": "2026-07-24",
@@ -45330,7 +45336,7 @@
       "low": 43607.4,
       "close": 43654.84,
       "dailyFlow": -22197,
-      "cumFlow": -527440.4
+      "cumFlow": -543923.6
     },
     {
       "date": "2026-07-27",
@@ -45339,7 +45345,7 @@
       "low": 42969.48,
       "close": 43634.19,
       "dailyFlow": 31912,
-      "cumFlow": -495528.4
+      "cumFlow": -512011.6
     },
     {
       "date": "2026-07-28",
@@ -45348,7 +45354,7 @@
       "low": 41565,
       "close": 41603.36,
       "dailyFlow": -47320,
-      "cumFlow": -542848.4
+      "cumFlow": -559331.6
     },
     {
       "date": "2026-07-29",
@@ -45357,7 +45363,7 @@
       "low": 39384.85,
       "close": 40039.18,
       "dailyFlow": 18576,
-      "cumFlow": -524272.4
+      "cumFlow": -540755.6
     },
     {
       "date": "2026-07-30",
@@ -45366,7 +45372,7 @@
       "low": 39404.65,
       "close": 39933.3,
       "dailyFlow": -72552,
-      "cumFlow": -596824.4
+      "cumFlow": -613307.6
     },
     {
       "date": "2026-07-31",
@@ -45375,7 +45381,7 @@
       "low": 41610.41,
       "close": 43119.75,
       "dailyFlow": 59051,
-      "cumFlow": -537773.4
+      "cumFlow": -554256.6
     },
     {
       "date": "2026-08-03",
@@ -45384,7 +45390,7 @@
       "low": 42780.42,
       "close": 43386.41,
       "dailyFlow": -65724,
-      "cumFlow": -603497.4
+      "cumFlow": -619980.6
     },
     {
       "date": "2026-08-04",
@@ -45393,7 +45399,7 @@
       "low": 42895.81,
       "close": 43360.66,
       "dailyFlow": -32428,
-      "cumFlow": -635925.4
+      "cumFlow": -652408.6
     },
     {
       "date": "2026-08-05",
@@ -45402,7 +45408,7 @@
       "low": 43809.83,
       "close": 44611.6,
       "dailyFlow": 31459,
-      "cumFlow": -604466.4
+      "cumFlow": -620949.6
     },
     {
       "date": "2026-08-06",
@@ -45411,7 +45417,7 @@
       "low": 44024.32,
       "close": 44396.7,
       "dailyFlow": 12126,
-      "cumFlow": -592340.4
+      "cumFlow": -608823.6
     },
     {
       "date": "2026-08-07",
@@ -45420,7 +45426,7 @@
       "low": 43941.56,
       "close": 44225.91,
       "dailyFlow": -50472,
-      "cumFlow": -642812.4
+      "cumFlow": -659295.6
     },
     {
       "date": "2026-08-10",
@@ -45429,19 +45435,19 @@
       "low": 44540.71,
       "close": 44928.76,
       "dailyFlow": 60414,
-      "cumFlow": -582398.4
+      "cumFlow": -598881.6
+    },
+    {
+      "date": "2026-08-11",
+      "open": 44883.9,
+      "high": 45195.41,
+      "low": 44652.06,
+      "close": 45120.72,
+      "dailyFlow": 2066,
+      "cumFlow": -596815.6
     }
   ],
   "TPEX_HISTORY": [
-    {
-      "date": "2026-05-11",
-      "open": 410.24,
-      "high": 422.14,
-      "low": 410.24,
-      "close": 422.01,
-      "dailyFlow": -6940.6,
-      "cumFlow": -6940.6
-    },
     {
       "date": "2026-05-12",
       "open": 423.72,
@@ -45449,7 +45455,7 @@
       "low": 423.06,
       "close": 425.71,
       "dailyFlow": 18224.9,
-      "cumFlow": 11284.3
+      "cumFlow": 18224.9
     },
     {
       "date": "2026-05-13",
@@ -45458,7 +45464,7 @@
       "low": 414.53,
       "close": 420.54,
       "dailyFlow": 17614.1,
-      "cumFlow": 28898.4
+      "cumFlow": 35839
     },
     {
       "date": "2026-05-14",
@@ -45467,7 +45473,7 @@
       "low": 422.74,
       "close": 426.57,
       "dailyFlow": 18641.7,
-      "cumFlow": 47540.1
+      "cumFlow": 54480.7
     },
     {
       "date": "2026-05-15",
@@ -45476,7 +45482,7 @@
       "low": 411.18,
       "close": 411.18,
       "dailyFlow": 3028.4,
-      "cumFlow": 50568.5
+      "cumFlow": 57509.1
     },
     {
       "date": "2026-05-18",
@@ -45485,7 +45491,7 @@
       "low": 398.67,
       "close": 409.63,
       "dailyFlow": 158765.4,
-      "cumFlow": 209333.9
+      "cumFlow": 216274.5
     },
     {
       "date": "2026-05-19",
@@ -45494,7 +45500,7 @@
       "low": 396.67,
       "close": 398.18,
       "dailyFlow": -21968.7,
-      "cumFlow": 187365.2
+      "cumFlow": 194305.8
     },
     {
       "date": "2026-05-20",
@@ -45503,7 +45509,7 @@
       "low": 395.31,
       "close": 396.42,
       "dailyFlow": -899.6,
-      "cumFlow": 186465.6
+      "cumFlow": 193406.2
     },
     {
       "date": "2026-05-21",
@@ -45512,7 +45518,7 @@
       "low": 399.67,
       "close": 409.8,
       "dailyFlow": -7892.9,
-      "cumFlow": 178572.7
+      "cumFlow": 185513.3
     },
     {
       "date": "2026-05-22",
@@ -45521,7 +45527,7 @@
       "low": 411.78,
       "close": 423.25,
       "dailyFlow": -24652.2,
-      "cumFlow": 153920.5
+      "cumFlow": 160861.1
     },
     {
       "date": "2026-05-25",
@@ -45530,7 +45536,7 @@
       "low": 426.34,
       "close": 434.99,
       "dailyFlow": 11864.6,
-      "cumFlow": 165785.1
+      "cumFlow": 172725.7
     },
     {
       "date": "2026-05-26",
@@ -45539,7 +45545,7 @@
       "low": 432.47,
       "close": 439.3,
       "dailyFlow": -530.5,
-      "cumFlow": 165254.6
+      "cumFlow": 172195.2
     },
     {
       "date": "2026-05-27",
@@ -45548,7 +45554,7 @@
       "low": 436.54,
       "close": 440.19,
       "dailyFlow": 19192.1,
-      "cumFlow": 184446.7
+      "cumFlow": 191387.3
     },
     {
       "date": "2026-05-28",
@@ -45557,7 +45563,7 @@
       "low": 430.08,
       "close": 432.48,
       "dailyFlow": -1722.9,
-      "cumFlow": 182723.8
+      "cumFlow": 189664.4
     },
     {
       "date": "2026-05-29",
@@ -45566,7 +45572,7 @@
       "low": 435.81,
       "close": 443.64,
       "dailyFlow": -9083,
-      "cumFlow": 173640.8
+      "cumFlow": 180581.4
     },
     {
       "date": "2026-06-01",
@@ -45575,7 +45581,7 @@
       "low": 443.97,
       "close": 446.02,
       "dailyFlow": 2165.3,
-      "cumFlow": 175806.1
+      "cumFlow": 182746.7
     },
     {
       "date": "2026-06-02",
@@ -45584,7 +45590,7 @@
       "low": 433.71,
       "close": 440.64,
       "dailyFlow": -1311.5,
-      "cumFlow": 174494.6
+      "cumFlow": 181435.2
     },
     {
       "date": "2026-06-03",
@@ -45593,7 +45599,7 @@
       "low": 442.6,
       "close": 446.82,
       "dailyFlow": -16505.2,
-      "cumFlow": 157989.4
+      "cumFlow": 164930
     },
     {
       "date": "2026-06-04",
@@ -45602,7 +45608,7 @@
       "low": 440.1,
       "close": 440.1,
       "dailyFlow": -2677.2,
-      "cumFlow": 155312.2
+      "cumFlow": 162252.8
     },
     {
       "date": "2026-06-05",
@@ -45611,7 +45617,7 @@
       "low": 419.44,
       "close": 431.07,
       "dailyFlow": -3495.3,
-      "cumFlow": 151816.9
+      "cumFlow": 158757.5
     },
     {
       "date": "2026-06-08",
@@ -45620,7 +45626,7 @@
       "low": 395.16,
       "close": 412.57,
       "dailyFlow": 15965.6,
-      "cumFlow": 167782.5
+      "cumFlow": 174723.1
     },
     {
       "date": "2026-06-09",
@@ -45629,7 +45635,7 @@
       "low": 413.54,
       "close": 424.71,
       "dailyFlow": -10900.2,
-      "cumFlow": 156882.3
+      "cumFlow": 163822.9
     },
     {
       "date": "2026-06-10",
@@ -45638,7 +45644,7 @@
       "low": 405.4,
       "close": 405.91,
       "dailyFlow": -6645.5,
-      "cumFlow": 150236.8
+      "cumFlow": 157177.4
     },
     {
       "date": "2026-06-11",
@@ -45647,7 +45653,7 @@
       "low": 392.56,
       "close": 407.09,
       "dailyFlow": 19013.9,
-      "cumFlow": 169250.7
+      "cumFlow": 176191.3
     },
     {
       "date": "2026-06-12",
@@ -45656,7 +45662,7 @@
       "low": 411.35,
       "close": 419.72,
       "dailyFlow": 3849.4,
-      "cumFlow": 173100.1
+      "cumFlow": 180040.7
     },
     {
       "date": "2026-06-15",
@@ -45665,7 +45671,7 @@
       "low": 423.35,
       "close": 429.37,
       "dailyFlow": 12253.5,
-      "cumFlow": 185353.6
+      "cumFlow": 192294.2
     },
     {
       "date": "2026-06-16",
@@ -45674,7 +45680,7 @@
       "low": 429.98,
       "close": 430.26,
       "dailyFlow": 1052.1,
-      "cumFlow": 186405.7
+      "cumFlow": 193346.3
     },
     {
       "date": "2026-06-17",
@@ -45683,7 +45689,7 @@
       "low": 426.55,
       "close": 433.34,
       "dailyFlow": -598.3,
-      "cumFlow": 185807.4
+      "cumFlow": 192748
     },
     {
       "date": "2026-06-18",
@@ -45692,7 +45698,7 @@
       "low": 434.54,
       "close": 447.06,
       "dailyFlow": 12957.5,
-      "cumFlow": 198764.9
+      "cumFlow": 205705.5
     },
     {
       "date": "2026-06-22",
@@ -45701,7 +45707,7 @@
       "low": 449.85,
       "close": 453.5,
       "dailyFlow": -1036.8,
-      "cumFlow": 197728.1
+      "cumFlow": 204668.7
     },
     {
       "date": "2026-06-23",
@@ -45710,7 +45716,7 @@
       "low": 440.81,
       "close": 440.81,
       "dailyFlow": -5885.4,
-      "cumFlow": 191842.7
+      "cumFlow": 198783.3
     },
     {
       "date": "2026-06-24",
@@ -45719,7 +45725,7 @@
       "low": 431.79,
       "close": 442.09,
       "dailyFlow": 1349,
-      "cumFlow": 193191.7
+      "cumFlow": 200132.3
     },
     {
       "date": "2026-06-25",
@@ -45728,7 +45734,7 @@
       "low": 438.3,
       "close": 439.84,
       "dailyFlow": -6154.5,
-      "cumFlow": 187037.2
+      "cumFlow": 193977.8
     },
     {
       "date": "2026-06-26",
@@ -45737,7 +45743,7 @@
       "low": 414.87,
       "close": 415.26,
       "dailyFlow": 3730,
-      "cumFlow": 190767.2
+      "cumFlow": 197707.8
     },
     {
       "date": "2026-06-29",
@@ -45746,7 +45752,7 @@
       "low": 409.3,
       "close": 412.93,
       "dailyFlow": 1306,
-      "cumFlow": 192073.2
+      "cumFlow": 199013.8
     },
     {
       "date": "2026-06-30",
@@ -45755,7 +45761,7 @@
       "low": 414.56,
       "close": 426.97,
       "dailyFlow": -8781.8,
-      "cumFlow": 183291.4
+      "cumFlow": 190232
     },
     {
       "date": "2026-07-01",
@@ -45764,7 +45770,7 @@
       "low": 430.29,
       "close": 431.23,
       "dailyFlow": -9553.3,
-      "cumFlow": 173738.1
+      "cumFlow": 180678.7
     },
     {
       "date": "2026-07-02",
@@ -45773,7 +45779,7 @@
       "low": 424.2,
       "close": 439.51,
       "dailyFlow": -9039.3,
-      "cumFlow": 164698.8
+      "cumFlow": 171639.4
     },
     {
       "date": "2026-07-03",
@@ -45782,7 +45788,7 @@
       "low": 435.92,
       "close": 445.38,
       "dailyFlow": -2339.6,
-      "cumFlow": 162359.2
+      "cumFlow": 169299.8
     },
     {
       "date": "2026-07-06",
@@ -45791,7 +45797,7 @@
       "low": 437.21,
       "close": 439.8,
       "dailyFlow": -6779.3,
-      "cumFlow": 155579.9
+      "cumFlow": 162520.5
     },
     {
       "date": "2026-07-07",
@@ -45800,7 +45806,7 @@
       "low": 418.45,
       "close": 419.47,
       "dailyFlow": 970.8,
-      "cumFlow": 156550.7
+      "cumFlow": 163491.3
     },
     {
       "date": "2026-07-08",
@@ -45809,7 +45815,7 @@
       "low": 413.1,
       "close": 421.39,
       "dailyFlow": 1288.7,
-      "cumFlow": 157839.4
+      "cumFlow": 164780
     },
     {
       "date": "2026-07-09",
@@ -45818,7 +45824,7 @@
       "low": 423.45,
       "close": 424.99,
       "dailyFlow": -884.2,
-      "cumFlow": 156955.2
+      "cumFlow": 163895.8
     },
     {
       "date": "2026-07-13",
@@ -45827,7 +45833,7 @@
       "low": 417.55,
       "close": 419.9,
       "dailyFlow": -3981.5,
-      "cumFlow": 152973.7
+      "cumFlow": 159914.3
     },
     {
       "date": "2026-07-14",
@@ -45836,7 +45842,7 @@
       "low": 390.99,
       "close": 407.41,
       "dailyFlow": 10998.2,
-      "cumFlow": 163971.9
+      "cumFlow": 170912.5
     },
     {
       "date": "2026-07-15",
@@ -45845,7 +45851,7 @@
       "low": 409.91,
       "close": 416.41,
       "dailyFlow": -1587.9,
-      "cumFlow": 162384
+      "cumFlow": 169324.6
     },
     {
       "date": "2026-07-16",
@@ -45854,7 +45860,7 @@
       "low": 404.89,
       "close": 407.01,
       "dailyFlow": -4524.1,
-      "cumFlow": 157859.9
+      "cumFlow": 164800.5
     },
     {
       "date": "2026-07-17",
@@ -45863,7 +45869,7 @@
       "low": 378.2,
       "close": 378.44,
       "dailyFlow": 5581,
-      "cumFlow": 163440.9
+      "cumFlow": 170381.5
     },
     {
       "date": "2026-07-20",
@@ -45872,7 +45878,7 @@
       "low": 357.22,
       "close": 368.53,
       "dailyFlow": -2468,
-      "cumFlow": 160972.9
+      "cumFlow": 167913.5
     },
     {
       "date": "2026-07-21",
@@ -45881,7 +45887,7 @@
       "low": 369.65,
       "close": 381.96,
       "dailyFlow": -3605,
-      "cumFlow": 157367.9
+      "cumFlow": 164308.5
     },
     {
       "date": "2026-07-22",
@@ -45890,7 +45896,7 @@
       "low": 385.18,
       "close": 395.18,
       "dailyFlow": 4747,
-      "cumFlow": 162114.9
+      "cumFlow": 169055.5
     },
     {
       "date": "2026-07-23",
@@ -45899,7 +45905,7 @@
       "low": 389.31,
       "close": 392.11,
       "dailyFlow": 610,
-      "cumFlow": 162724.9
+      "cumFlow": 169665.5
     },
     {
       "date": "2026-07-24",
@@ -45908,7 +45914,7 @@
       "low": 377.54,
       "close": 377.63,
       "dailyFlow": 525,
-      "cumFlow": 163249.9
+      "cumFlow": 170190.5
     },
     {
       "date": "2026-07-27",
@@ -45917,7 +45923,7 @@
       "low": 369.52,
       "close": 378.09,
       "dailyFlow": 12287,
-      "cumFlow": 175536.9
+      "cumFlow": 182477.5
     },
     {
       "date": "2026-07-28",
@@ -45926,7 +45932,7 @@
       "low": 352.42,
       "close": 352.42,
       "dailyFlow": 2963,
-      "cumFlow": 178499.9
+      "cumFlow": 185440.5
     },
     {
       "date": "2026-07-29",
@@ -45935,7 +45941,7 @@
       "low": 327.79,
       "close": 334.24,
       "dailyFlow": 6315,
-      "cumFlow": 184814.9
+      "cumFlow": 191755.5
     },
     {
       "date": "2026-07-30",
@@ -45944,7 +45950,7 @@
       "low": 322.74,
       "close": 326.23,
       "dailyFlow": -4407,
-      "cumFlow": 180407.9
+      "cumFlow": 187348.5
     },
     {
       "date": "2026-07-31",
@@ -45953,7 +45959,7 @@
       "low": 331.88,
       "close": 347.85,
       "dailyFlow": -9680,
-      "cumFlow": 170727.9
+      "cumFlow": 177668.5
     },
     {
       "date": "2026-08-03",
@@ -45962,7 +45968,7 @@
       "low": 349.14,
       "close": 362.89,
       "dailyFlow": -11813,
-      "cumFlow": 158914.9
+      "cumFlow": 165855.5
     },
     {
       "date": "2026-08-04",
@@ -45971,7 +45977,7 @@
       "low": 364.8,
       "close": 375.03,
       "dailyFlow": -2860,
-      "cumFlow": 156054.9
+      "cumFlow": 162995.5
     },
     {
       "date": "2026-08-05",
@@ -45980,7 +45986,7 @@
       "low": 378.69,
       "close": 383.75,
       "dailyFlow": -3981,
-      "cumFlow": 152073.9
+      "cumFlow": 159014.5
     },
     {
       "date": "2026-08-06",
@@ -45989,7 +45995,7 @@
       "low": 378.5,
       "close": 391.37,
       "dailyFlow": -13775,
-      "cumFlow": 138298.9
+      "cumFlow": 145239.5
     },
     {
       "date": "2026-08-07",
@@ -45998,7 +46004,7 @@
       "low": 382.71,
       "close": 384.19,
       "dailyFlow": -10982,
-      "cumFlow": 127316.9
+      "cumFlow": 134257.5
     },
     {
       "date": "2026-08-10",
@@ -46007,7 +46013,16 @@
       "low": 386.32,
       "close": 391.61,
       "dailyFlow": -3489,
-      "cumFlow": 123827.9
+      "cumFlow": 130768.5
+    },
+    {
+      "date": "2026-08-11",
+      "open": 390.93,
+      "high": 393.12,
+      "low": 386.09,
+      "close": 391.68,
+      "dailyFlow": -11615,
+      "cumFlow": 119153.5
     }
   ]
 }
