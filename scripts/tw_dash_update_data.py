@@ -28,8 +28,9 @@ def bak(src, bdir, tag):
 
 
 def trim32(recs):
+    # 保留自 2026-05-26 起的完整歷史資料，不再強制丟棄超過32天的歷史
     dates = sorted(set(r["date"] for r in recs))
-    while len(dates) > 32:
+    while len(dates) > 365:
         oldest = dates.pop(0)
         recs = [r for r in recs if r["date"] != oldest]
     return recs
